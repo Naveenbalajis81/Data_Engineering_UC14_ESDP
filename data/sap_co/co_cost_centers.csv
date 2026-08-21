@@ -1,0 +1,26 @@
+cost_center,cost_center_name,department,company_code,responsible_person
+CC0001,Sales Cost Center 1,Sales,1000,Rebecca Henderson
+CC0002,Procurement Cost Center 2,Procurement,1000,James Ferrell
+CC0003,Finance Cost Center 3,Finance,1000,Tricia Valencia
+CC0004,Production Cost Center 4,Production,1000,Nathan Maldonado
+CC0005,Warehouse Cost Center 5,Warehouse,1000,Debra Davidson
+CC0006,HR Cost Center 6,HR,1000,Jeffrey Chavez
+CC0007,IT Cost Center 7,IT,1000,Sherri Baker
+CC0008,Marketing Cost Center 8,Marketing,1000,Cassandra Gaines
+CC0009,Quality Cost Center 9,Quality,1000,Elizabeth Fowler
+CC0010,Logistics Cost Center 10,Logistics,1000,Brittany Farmer
+CC0011,Sales Cost Center 11,Sales,1000,Paula Moreno
+CC0012,Procurement Cost Center 12,Procurement,1000,Fred Smith
+CC0013,Finance Cost Center 13,Finance,1000,Sherry Decker
+CC0014,Production Cost Center 14,Production,1000,Anthony Humphrey
+CC0015,Warehouse Cost Center 15,Warehouse,1000,Angelica Tucker
+CC0016,HR Cost Center 16,HR,1000,Philip Cannon
+CC0017,IT Cost Center 17,IT,1000,John Pierce
+CC0018,Marketing Cost Center 18,Marketing,1000,Shane Henderson
+CC0019,Quality Cost Center 19,Quality,1000,Joshua Blair
+CC0020,Logistics Cost Center 20,Logistics,1000,Eric Carney
+CC0021,Sales Cost Center 21,Sales,1000,Jessica Holmes
+CC0022,Procurement Cost Center 22,Procurement,1000,Danny Morgan
+CC0023,Finance Cost Center 23,Finance,1000,Crystal Robinson
+CC0024,Production Cost Center 24,Production,1000,Mark Perez
+CC0025,Warehouse Cost Center 25,Warehouse,1000,Shannon Jones
