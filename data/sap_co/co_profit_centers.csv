@@ -1,0 +1,16 @@
+profit_center,profit_center_name,business_area
+PC001,Retail Sales Profit Center,Retail Sales
+PC002,Wholesale Profit Center,Wholesale
+PC003,Online Channel Profit Center,Online Channel
+PC004,Export Profit Center,Export
+PC005,Regional South Profit Center,Regional South
+PC006,Regional North Profit Center,Regional North
+PC007,Regional Southeast Profit Center,Regional Southeast
+PC008,Regional Northeast Profit Center,Regional Northeast
+PC009,Regional Central-West Profit Center,Regional Central-West
+PC010,Corporate Profit Center,Corporate
+PC011,Logistics Profit Center,Logistics
+PC012,Manufacturing Profit Center,Manufacturing
+PC013,Services Profit Center,Services
+PC014,Warranty Profit Center,Warranty
+PC015,Returns Profit Center,Returns
