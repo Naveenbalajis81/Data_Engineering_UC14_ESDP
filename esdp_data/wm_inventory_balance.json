@@ -1,0 +1,8318 @@
+[
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00001",
+    "quantity_on_hand": 105,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00003",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00004",
+    "quantity_on_hand": 261,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00006",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00008",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00011",
+    "quantity_on_hand": 230,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00012",
+    "quantity_on_hand": 330,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00016",
+    "quantity_on_hand": 258,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00018",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00020",
+    "quantity_on_hand": 172,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00022",
+    "quantity_on_hand": 188,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00025",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00028",
+    "quantity_on_hand": 20,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00033",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00037",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00039",
+    "quantity_on_hand": 389,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00040",
+    "quantity_on_hand": 259,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00045",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00047",
+    "quantity_on_hand": 412,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00054",
+    "quantity_on_hand": 211,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00055",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00056",
+    "quantity_on_hand": 215,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00057",
+    "quantity_on_hand": 309,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00058",
+    "quantity_on_hand": 556,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00062",
+    "quantity_on_hand": 105,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00064",
+    "quantity_on_hand": 313,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00065",
+    "quantity_on_hand": 73,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00067",
+    "quantity_on_hand": 197,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00073",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00074",
+    "quantity_on_hand": 308,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00077",
+    "quantity_on_hand": 316,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00081",
+    "quantity_on_hand": 176,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00084",
+    "quantity_on_hand": 11,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00085",
+    "quantity_on_hand": 367,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00091",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00100",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00101",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00102",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00103",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00104",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00106",
+    "quantity_on_hand": 60,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00110",
+    "quantity_on_hand": 354,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00112",
+    "quantity_on_hand": 861,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00113",
+    "quantity_on_hand": 220,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00114",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00116",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00117",
+    "quantity_on_hand": 75,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00119",
+    "quantity_on_hand": 381,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00120",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00121",
+    "quantity_on_hand": 211,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00122",
+    "quantity_on_hand": 109,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00124",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00126",
+    "quantity_on_hand": 139,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00131",
+    "quantity_on_hand": 450,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00133",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00135",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00138",
+    "quantity_on_hand": 54,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00141",
+    "quantity_on_hand": 456,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00144",
+    "quantity_on_hand": 301,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00146",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00147",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00148",
+    "quantity_on_hand": 333,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00149",
+    "quantity_on_hand": 176,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00151",
+    "quantity_on_hand": 35,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00152",
+    "quantity_on_hand": 350,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00162",
+    "quantity_on_hand": 78,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00163",
+    "quantity_on_hand": 191,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00166",
+    "quantity_on_hand": 333,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00168",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00169",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00171",
+    "quantity_on_hand": 461,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00173",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00174",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00177",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00179",
+    "quantity_on_hand": 233,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00180",
+    "quantity_on_hand": 180,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00181",
+    "quantity_on_hand": 20,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00184",
+    "quantity_on_hand": 288,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00194",
+    "quantity_on_hand": 253,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00196",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00197",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00205",
+    "quantity_on_hand": 285,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00206",
+    "quantity_on_hand": 354,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00209",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00210",
+    "quantity_on_hand": 306,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00212",
+    "quantity_on_hand": 122,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00213",
+    "quantity_on_hand": 18,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00214",
+    "quantity_on_hand": 484,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00215",
+    "quantity_on_hand": 418,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00217",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00227",
+    "quantity_on_hand": 314,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00229",
+    "quantity_on_hand": 177,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00233",
+    "quantity_on_hand": 339,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00236",
+    "quantity_on_hand": 169,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00237",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00238",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00239",
+    "quantity_on_hand": 104,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00240",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00241",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00246",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00249",
+    "quantity_on_hand": 64,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00256",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00262",
+    "quantity_on_hand": 224,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00263",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00265",
+    "quantity_on_hand": 462,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00266",
+    "quantity_on_hand": 57,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00267",
+    "quantity_on_hand": 56,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00272",
+    "quantity_on_hand": 484,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00274",
+    "quantity_on_hand": 374,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00277",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00280",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00281",
+    "quantity_on_hand": 399,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00283",
+    "quantity_on_hand": 433,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00284",
+    "quantity_on_hand": 602,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00286",
+    "quantity_on_hand": 232,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00287",
+    "quantity_on_hand": 484,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00288",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00289",
+    "quantity_on_hand": 309,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00290",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00292",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00294",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00297",
+    "quantity_on_hand": 288,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00298",
+    "quantity_on_hand": 20,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00299",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00300",
+    "quantity_on_hand": 195,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00304",
+    "quantity_on_hand": 241,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00305",
+    "quantity_on_hand": 1009,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00306",
+    "quantity_on_hand": 352,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00307",
+    "quantity_on_hand": 54,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00308",
+    "quantity_on_hand": 201,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00312",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00315",
+    "quantity_on_hand": 189,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00318",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00320",
+    "quantity_on_hand": 387,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00323",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00324",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00327",
+    "quantity_on_hand": 436,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00328",
+    "quantity_on_hand": 331,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00329",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00331",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00332",
+    "quantity_on_hand": 451,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00334",
+    "quantity_on_hand": 157,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00336",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00338",
+    "quantity_on_hand": 100,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00339",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00340",
+    "quantity_on_hand": 116,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00341",
+    "quantity_on_hand": 31,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00343",
+    "quantity_on_hand": 720,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00344",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00347",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00349",
+    "quantity_on_hand": 274,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00350",
+    "quantity_on_hand": 98,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00352",
+    "quantity_on_hand": 120,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00355",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00357",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00365",
+    "quantity_on_hand": 666,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00366",
+    "quantity_on_hand": 340,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00369",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00370",
+    "quantity_on_hand": 410,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00380",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00383",
+    "quantity_on_hand": 298,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00387",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00388",
+    "quantity_on_hand": 562,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00391",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00393",
+    "quantity_on_hand": 60,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00394",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00395",
+    "quantity_on_hand": 310,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00396",
+    "quantity_on_hand": 53,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00398",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00399",
+    "quantity_on_hand": 192,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH01",
+    "material_id": "MAT00400",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00003",
+    "quantity_on_hand": 323,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00004",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00006",
+    "quantity_on_hand": 243,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00007",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00010",
+    "quantity_on_hand": 93,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00012",
+    "quantity_on_hand": 168,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00022",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00025",
+    "quantity_on_hand": 207,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00026",
+    "quantity_on_hand": 347,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00027",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00036",
+    "quantity_on_hand": 461,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00044",
+    "quantity_on_hand": 87,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00049",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00052",
+    "quantity_on_hand": 375,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00053",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00056",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00059",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00060",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00061",
+    "quantity_on_hand": 72,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00063",
+    "quantity_on_hand": 189,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00064",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00067",
+    "quantity_on_hand": 282,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00068",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00069",
+    "quantity_on_hand": 568,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00070",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00071",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00073",
+    "quantity_on_hand": 255,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00075",
+    "quantity_on_hand": 30,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00082",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00083",
+    "quantity_on_hand": 279,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00084",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00087",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00088",
+    "quantity_on_hand": 224,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00090",
+    "quantity_on_hand": 267,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00091",
+    "quantity_on_hand": 158,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00094",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00095",
+    "quantity_on_hand": 185,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00101",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00103",
+    "quantity_on_hand": 130,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00104",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00108",
+    "quantity_on_hand": 366,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00109",
+    "quantity_on_hand": 175,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00110",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00111",
+    "quantity_on_hand": 319,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00112",
+    "quantity_on_hand": 137,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00117",
+    "quantity_on_hand": 134,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00118",
+    "quantity_on_hand": 496,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00123",
+    "quantity_on_hand": 470,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00125",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00126",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00127",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00131",
+    "quantity_on_hand": 292,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00132",
+    "quantity_on_hand": 450,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00135",
+    "quantity_on_hand": 99,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00139",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00140",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00142",
+    "quantity_on_hand": 184,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00143",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00144",
+    "quantity_on_hand": 479,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00145",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00147",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00149",
+    "quantity_on_hand": 195,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00150",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00151",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00152",
+    "quantity_on_hand": 731,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00156",
+    "quantity_on_hand": 302,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00157",
+    "quantity_on_hand": 166,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00159",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00160",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00165",
+    "quantity_on_hand": 40,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00167",
+    "quantity_on_hand": 89,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00172",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00173",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00175",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00176",
+    "quantity_on_hand": 347,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00180",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00184",
+    "quantity_on_hand": 47,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00185",
+    "quantity_on_hand": 68,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00186",
+    "quantity_on_hand": 127,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00188",
+    "quantity_on_hand": 203,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00189",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00191",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00193",
+    "quantity_on_hand": 213,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00194",
+    "quantity_on_hand": 60,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00198",
+    "quantity_on_hand": 231,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00199",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00201",
+    "quantity_on_hand": 452,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00202",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00203",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00210",
+    "quantity_on_hand": 423,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00211",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00213",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00216",
+    "quantity_on_hand": 403,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00217",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00218",
+    "quantity_on_hand": 74,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00219",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00220",
+    "quantity_on_hand": 159,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00221",
+    "quantity_on_hand": 254,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00223",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00224",
+    "quantity_on_hand": 342,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00226",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00227",
+    "quantity_on_hand": 272,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00228",
+    "quantity_on_hand": 226,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00230",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00233",
+    "quantity_on_hand": 261,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00234",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00235",
+    "quantity_on_hand": 53,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00239",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00244",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00247",
+    "quantity_on_hand": 39,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00250",
+    "quantity_on_hand": 408,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00253",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00254",
+    "quantity_on_hand": 54,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00255",
+    "quantity_on_hand": 163,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00256",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00259",
+    "quantity_on_hand": 25,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00261",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00263",
+    "quantity_on_hand": 76,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00268",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00269",
+    "quantity_on_hand": 102,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00270",
+    "quantity_on_hand": 226,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00271",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00281",
+    "quantity_on_hand": 379,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00282",
+    "quantity_on_hand": 73,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00284",
+    "quantity_on_hand": 24,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00288",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00292",
+    "quantity_on_hand": 150,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00293",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00294",
+    "quantity_on_hand": 67,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00295",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00296",
+    "quantity_on_hand": 41,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00299",
+    "quantity_on_hand": 241,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00302",
+    "quantity_on_hand": 372,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00307",
+    "quantity_on_hand": 198,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00309",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00310",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00317",
+    "quantity_on_hand": 242,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00319",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00321",
+    "quantity_on_hand": 311,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00322",
+    "quantity_on_hand": 344,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00323",
+    "quantity_on_hand": 429,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00324",
+    "quantity_on_hand": 105,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00326",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00331",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00337",
+    "quantity_on_hand": 32,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00338",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00339",
+    "quantity_on_hand": 119,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00342",
+    "quantity_on_hand": 481,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00343",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00347",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00349",
+    "quantity_on_hand": 197,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00350",
+    "quantity_on_hand": 691,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00351",
+    "quantity_on_hand": 323,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00352",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00354",
+    "quantity_on_hand": 414,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00355",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00357",
+    "quantity_on_hand": 257,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00358",
+    "quantity_on_hand": 49,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00362",
+    "quantity_on_hand": 446,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00364",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00368",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00369",
+    "quantity_on_hand": 113,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00372",
+    "quantity_on_hand": 297,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00373",
+    "quantity_on_hand": 270,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00377",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00378",
+    "quantity_on_hand": 27,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00384",
+    "quantity_on_hand": 469,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00387",
+    "quantity_on_hand": 209,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00390",
+    "quantity_on_hand": 141,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00397",
+    "quantity_on_hand": 167,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH02",
+    "material_id": "MAT00399",
+    "quantity_on_hand": 22,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00004",
+    "quantity_on_hand": 97,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00005",
+    "quantity_on_hand": 341,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00008",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00009",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00010",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00011",
+    "quantity_on_hand": 219,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00013",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00014",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00018",
+    "quantity_on_hand": 284,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00020",
+    "quantity_on_hand": 32,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00022",
+    "quantity_on_hand": 310,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00027",
+    "quantity_on_hand": 199,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00028",
+    "quantity_on_hand": 341,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00030",
+    "quantity_on_hand": 552,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00032",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00034",
+    "quantity_on_hand": 120,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00035",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00036",
+    "quantity_on_hand": 128,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00038",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00040",
+    "quantity_on_hand": 217,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00043",
+    "quantity_on_hand": 430,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00049",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00050",
+    "quantity_on_hand": 488,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00051",
+    "quantity_on_hand": 26,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00052",
+    "quantity_on_hand": 436,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00053",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00054",
+    "quantity_on_hand": 102,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00057",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00059",
+    "quantity_on_hand": 84,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00060",
+    "quantity_on_hand": 50,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00063",
+    "quantity_on_hand": 38,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00064",
+    "quantity_on_hand": 266,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00066",
+    "quantity_on_hand": 344,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00067",
+    "quantity_on_hand": 165,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00069",
+    "quantity_on_hand": 30,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00076",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00077",
+    "quantity_on_hand": 399,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00080",
+    "quantity_on_hand": 433,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00087",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00088",
+    "quantity_on_hand": 330,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00089",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00094",
+    "quantity_on_hand": 120,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00095",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00096",
+    "quantity_on_hand": 458,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00097",
+    "quantity_on_hand": 196,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00100",
+    "quantity_on_hand": 274,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00102",
+    "quantity_on_hand": 425,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00103",
+    "quantity_on_hand": 483,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00104",
+    "quantity_on_hand": 56,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00108",
+    "quantity_on_hand": 390,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00109",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00113",
+    "quantity_on_hand": 320,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00121",
+    "quantity_on_hand": 256,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00123",
+    "quantity_on_hand": 345,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00124",
+    "quantity_on_hand": 457,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00129",
+    "quantity_on_hand": 30,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00130",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00131",
+    "quantity_on_hand": 46,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00132",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00133",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00136",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00139",
+    "quantity_on_hand": 447,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00140",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00141",
+    "quantity_on_hand": 428,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00142",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00143",
+    "quantity_on_hand": 286,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00145",
+    "quantity_on_hand": 443,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00147",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00148",
+    "quantity_on_hand": 272,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00150",
+    "quantity_on_hand": 202,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00152",
+    "quantity_on_hand": 326,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00153",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00159",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00161",
+    "quantity_on_hand": 466,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00163",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00164",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00165",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00166",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00169",
+    "quantity_on_hand": 62,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00170",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00171",
+    "quantity_on_hand": 472,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00179",
+    "quantity_on_hand": 24,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00180",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00182",
+    "quantity_on_hand": 594,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00184",
+    "quantity_on_hand": 310,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00186",
+    "quantity_on_hand": 75,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00191",
+    "quantity_on_hand": 410,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00192",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00199",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00200",
+    "quantity_on_hand": 265,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00206",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00208",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00210",
+    "quantity_on_hand": 550,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00212",
+    "quantity_on_hand": 419,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00213",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00215",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00216",
+    "quantity_on_hand": 30,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00217",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00219",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00220",
+    "quantity_on_hand": 470,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00222",
+    "quantity_on_hand": 178,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00227",
+    "quantity_on_hand": 357,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00228",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00230",
+    "quantity_on_hand": 321,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00231",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00232",
+    "quantity_on_hand": 647,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00234",
+    "quantity_on_hand": 540,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00236",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00239",
+    "quantity_on_hand": 117,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00240",
+    "quantity_on_hand": 429,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00241",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00242",
+    "quantity_on_hand": 264,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00243",
+    "quantity_on_hand": 492,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00244",
+    "quantity_on_hand": 236,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00245",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00246",
+    "quantity_on_hand": 352,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00249",
+    "quantity_on_hand": 34,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00251",
+    "quantity_on_hand": 51,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00254",
+    "quantity_on_hand": 47,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00255",
+    "quantity_on_hand": 25,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00256",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00259",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00260",
+    "quantity_on_hand": 261,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00265",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00275",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00276",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00284",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00288",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00290",
+    "quantity_on_hand": 380,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00292",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00297",
+    "quantity_on_hand": 32,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00298",
+    "quantity_on_hand": 265,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00299",
+    "quantity_on_hand": 173,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00300",
+    "quantity_on_hand": 85,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00302",
+    "quantity_on_hand": 142,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00303",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00304",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00305",
+    "quantity_on_hand": 224,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00307",
+    "quantity_on_hand": 425,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00308",
+    "quantity_on_hand": 251,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00309",
+    "quantity_on_hand": 466,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00310",
+    "quantity_on_hand": 151,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00311",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00314",
+    "quantity_on_hand": 46,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00315",
+    "quantity_on_hand": 59,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00317",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00319",
+    "quantity_on_hand": 400,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00320",
+    "quantity_on_hand": 402,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00321",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00322",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00325",
+    "quantity_on_hand": 254,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00327",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00329",
+    "quantity_on_hand": 421,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00331",
+    "quantity_on_hand": 35,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00332",
+    "quantity_on_hand": 195,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00333",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00342",
+    "quantity_on_hand": 130,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00344",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00345",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00350",
+    "quantity_on_hand": 326,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00354",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00355",
+    "quantity_on_hand": 142,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00359",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00360",
+    "quantity_on_hand": 311,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00361",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00363",
+    "quantity_on_hand": 314,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00365",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00367",
+    "quantity_on_hand": 419,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00369",
+    "quantity_on_hand": 268,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00372",
+    "quantity_on_hand": 521,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00373",
+    "quantity_on_hand": 354,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00375",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00376",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00377",
+    "quantity_on_hand": 419,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00380",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00384",
+    "quantity_on_hand": 67,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00386",
+    "quantity_on_hand": 281,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00389",
+    "quantity_on_hand": 786,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00390",
+    "quantity_on_hand": 563,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00391",
+    "quantity_on_hand": 383,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00392",
+    "quantity_on_hand": 48,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00393",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00394",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00395",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00397",
+    "quantity_on_hand": 249,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00398",
+    "quantity_on_hand": 172,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH03",
+    "material_id": "MAT00399",
+    "quantity_on_hand": 334,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00001",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00002",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00004",
+    "quantity_on_hand": 252,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00007",
+    "quantity_on_hand": 305,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00012",
+    "quantity_on_hand": 489,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00018",
+    "quantity_on_hand": 102,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00019",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00021",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00023",
+    "quantity_on_hand": 645,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00024",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00026",
+    "quantity_on_hand": 183,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00027",
+    "quantity_on_hand": 452,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00028",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00031",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00033",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00037",
+    "quantity_on_hand": 107,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00041",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00042",
+    "quantity_on_hand": 725,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00043",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00044",
+    "quantity_on_hand": 284,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00045",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00047",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00048",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00049",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00055",
+    "quantity_on_hand": 133,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00056",
+    "quantity_on_hand": 470,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00057",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00058",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00060",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00063",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00067",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00068",
+    "quantity_on_hand": 366,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00070",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00075",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00076",
+    "quantity_on_hand": 69,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00077",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00081",
+    "quantity_on_hand": 90,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00082",
+    "quantity_on_hand": 453,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00085",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00087",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00091",
+    "quantity_on_hand": 430,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00092",
+    "quantity_on_hand": 492,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00094",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00097",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00099",
+    "quantity_on_hand": 369,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00101",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00104",
+    "quantity_on_hand": 493,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00107",
+    "quantity_on_hand": 252,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00108",
+    "quantity_on_hand": 466,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00109",
+    "quantity_on_hand": 676,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00111",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00112",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00117",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00118",
+    "quantity_on_hand": 81,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00119",
+    "quantity_on_hand": 394,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00120",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00123",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00127",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00130",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00132",
+    "quantity_on_hand": 182,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00135",
+    "quantity_on_hand": 83,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00136",
+    "quantity_on_hand": 263,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00137",
+    "quantity_on_hand": 187,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00139",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00141",
+    "quantity_on_hand": 221,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00146",
+    "quantity_on_hand": 305,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00147",
+    "quantity_on_hand": 221,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00149",
+    "quantity_on_hand": 129,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00150",
+    "quantity_on_hand": 371,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00151",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00159",
+    "quantity_on_hand": 147,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00164",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00165",
+    "quantity_on_hand": 280,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00168",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00170",
+    "quantity_on_hand": 446,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00179",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00180",
+    "quantity_on_hand": 137,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00181",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00186",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00188",
+    "quantity_on_hand": 176,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00189",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00191",
+    "quantity_on_hand": 231,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00193",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00194",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00195",
+    "quantity_on_hand": 393,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00196",
+    "quantity_on_hand": 81,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00200",
+    "quantity_on_hand": 500,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00203",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00213",
+    "quantity_on_hand": 173,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00216",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00218",
+    "quantity_on_hand": 340,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00219",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00221",
+    "quantity_on_hand": 238,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00222",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00223",
+    "quantity_on_hand": 14,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00226",
+    "quantity_on_hand": 404,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00227",
+    "quantity_on_hand": 319,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00229",
+    "quantity_on_hand": 391,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00231",
+    "quantity_on_hand": 346,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00233",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00234",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00235",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00236",
+    "quantity_on_hand": 105,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00241",
+    "quantity_on_hand": 295,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00242",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00243",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00244",
+    "quantity_on_hand": 440,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00245",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00247",
+    "quantity_on_hand": 136,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00256",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00259",
+    "quantity_on_hand": 473,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00260",
+    "quantity_on_hand": 179,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00261",
+    "quantity_on_hand": 341,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00262",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00266",
+    "quantity_on_hand": 424,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00268",
+    "quantity_on_hand": 67,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00270",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00272",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00273",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00276",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00277",
+    "quantity_on_hand": 202,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00278",
+    "quantity_on_hand": 140,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00280",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00281",
+    "quantity_on_hand": 524,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00282",
+    "quantity_on_hand": 105,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00285",
+    "quantity_on_hand": 122,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00286",
+    "quantity_on_hand": 256,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00287",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00289",
+    "quantity_on_hand": 84,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00290",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00291",
+    "quantity_on_hand": 158,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00294",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00295",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00298",
+    "quantity_on_hand": 429,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00299",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00301",
+    "quantity_on_hand": 323,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00303",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00304",
+    "quantity_on_hand": 17,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00305",
+    "quantity_on_hand": 47,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00315",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00316",
+    "quantity_on_hand": 395,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00317",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00319",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00323",
+    "quantity_on_hand": 623,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00325",
+    "quantity_on_hand": 36,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00328",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00331",
+    "quantity_on_hand": 144,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00333",
+    "quantity_on_hand": 110,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00336",
+    "quantity_on_hand": 187,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00340",
+    "quantity_on_hand": 423,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00341",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00345",
+    "quantity_on_hand": 301,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00347",
+    "quantity_on_hand": 407,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00348",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00351",
+    "quantity_on_hand": 180,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00352",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00353",
+    "quantity_on_hand": 274,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00354",
+    "quantity_on_hand": 71,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00357",
+    "quantity_on_hand": 241,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00358",
+    "quantity_on_hand": 152,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00359",
+    "quantity_on_hand": 52,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00362",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00372",
+    "quantity_on_hand": 167,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00374",
+    "quantity_on_hand": 296,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00375",
+    "quantity_on_hand": 342,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00377",
+    "quantity_on_hand": 449,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00378",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00379",
+    "quantity_on_hand": 356,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00381",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00382",
+    "quantity_on_hand": 135,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00383",
+    "quantity_on_hand": 467,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00385",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00391",
+    "quantity_on_hand": 433,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00395",
+    "quantity_on_hand": 280,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00396",
+    "quantity_on_hand": 147,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH04",
+    "material_id": "MAT00398",
+    "quantity_on_hand": 419,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00004",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00005",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00011",
+    "quantity_on_hand": 52,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00016",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00018",
+    "quantity_on_hand": 288,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00019",
+    "quantity_on_hand": 222,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00020",
+    "quantity_on_hand": 65,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00024",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00028",
+    "quantity_on_hand": 206,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00030",
+    "quantity_on_hand": 59,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00032",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00034",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00035",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00036",
+    "quantity_on_hand": 150,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00037",
+    "quantity_on_hand": 158,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00038",
+    "quantity_on_hand": 382,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00040",
+    "quantity_on_hand": 492,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00045",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00046",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00047",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00048",
+    "quantity_on_hand": 50,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00054",
+    "quantity_on_hand": 283,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00056",
+    "quantity_on_hand": 252,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00057",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00059",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00061",
+    "quantity_on_hand": 265,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00062",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00064",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00066",
+    "quantity_on_hand": 442,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00068",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00069",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00070",
+    "quantity_on_hand": 58,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00071",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00075",
+    "quantity_on_hand": 316,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00079",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00080",
+    "quantity_on_hand": 335,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00083",
+    "quantity_on_hand": 39,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00085",
+    "quantity_on_hand": 394,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00086",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00087",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00088",
+    "quantity_on_hand": 288,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00092",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00093",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00095",
+    "quantity_on_hand": 81,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00101",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00102",
+    "quantity_on_hand": 396,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00103",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00104",
+    "quantity_on_hand": 48,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00105",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00106",
+    "quantity_on_hand": 223,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00112",
+    "quantity_on_hand": 165,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00113",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00114",
+    "quantity_on_hand": 37,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00116",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00123",
+    "quantity_on_hand": 53,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00124",
+    "quantity_on_hand": 657,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00129",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00130",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00131",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00134",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00135",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00137",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00146",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00147",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00150",
+    "quantity_on_hand": 225,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00155",
+    "quantity_on_hand": 206,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00159",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00164",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00168",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00170",
+    "quantity_on_hand": 485,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00174",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00176",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00177",
+    "quantity_on_hand": 269,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00181",
+    "quantity_on_hand": 84,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00182",
+    "quantity_on_hand": 93,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00183",
+    "quantity_on_hand": 367,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00186",
+    "quantity_on_hand": 419,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00187",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00188",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00190",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00191",
+    "quantity_on_hand": 106,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00192",
+    "quantity_on_hand": 447,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00194",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00195",
+    "quantity_on_hand": 82,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00199",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00200",
+    "quantity_on_hand": 705,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00201",
+    "quantity_on_hand": 170,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00202",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00204",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00209",
+    "quantity_on_hand": 420,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00219",
+    "quantity_on_hand": 43,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00222",
+    "quantity_on_hand": 67,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00223",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00224",
+    "quantity_on_hand": 368,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00229",
+    "quantity_on_hand": 57,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00233",
+    "quantity_on_hand": 98,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00235",
+    "quantity_on_hand": 260,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00237",
+    "quantity_on_hand": 212,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00241",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00245",
+    "quantity_on_hand": 287,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00246",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00249",
+    "quantity_on_hand": 59,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00250",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00251",
+    "quantity_on_hand": 222,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00252",
+    "quantity_on_hand": 664,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00257",
+    "quantity_on_hand": 275,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00258",
+    "quantity_on_hand": 371,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00259",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00261",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00262",
+    "quantity_on_hand": 467,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00263",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00264",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00265",
+    "quantity_on_hand": 311,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00267",
+    "quantity_on_hand": 989,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00268",
+    "quantity_on_hand": 133,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00269",
+    "quantity_on_hand": 330,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00270",
+    "quantity_on_hand": 177,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00273",
+    "quantity_on_hand": 444,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00274",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00276",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00277",
+    "quantity_on_hand": 382,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00279",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00280",
+    "quantity_on_hand": 198,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00281",
+    "quantity_on_hand": 398,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00284",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00287",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00288",
+    "quantity_on_hand": 93,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00289",
+    "quantity_on_hand": 125,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00290",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00292",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00299",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00301",
+    "quantity_on_hand": 155,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00302",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00306",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00315",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00316",
+    "quantity_on_hand": 209,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00317",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00319",
+    "quantity_on_hand": 95,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00320",
+    "quantity_on_hand": 465,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00324",
+    "quantity_on_hand": 345,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00325",
+    "quantity_on_hand": 162,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00326",
+    "quantity_on_hand": 462,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00331",
+    "quantity_on_hand": 123,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00332",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00334",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00335",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00336",
+    "quantity_on_hand": 50,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00337",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00338",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00339",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00342",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00343",
+    "quantity_on_hand": 473,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00346",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00348",
+    "quantity_on_hand": 91,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00352",
+    "quantity_on_hand": 39,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00357",
+    "quantity_on_hand": 239,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00359",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00360",
+    "quantity_on_hand": 231,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00361",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00368",
+    "quantity_on_hand": 188,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00370",
+    "quantity_on_hand": 205,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00371",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00372",
+    "quantity_on_hand": 484,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00374",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00376",
+    "quantity_on_hand": 67,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00377",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00381",
+    "quantity_on_hand": 95,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00386",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00387",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00388",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00389",
+    "quantity_on_hand": 209,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00391",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00394",
+    "quantity_on_hand": 113,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00396",
+    "quantity_on_hand": 276,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH05",
+    "material_id": "MAT00399",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00001",
+    "quantity_on_hand": 235,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00003",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00009",
+    "quantity_on_hand": 148,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00011",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00017",
+    "quantity_on_hand": 106,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00023",
+    "quantity_on_hand": 40,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00024",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00028",
+    "quantity_on_hand": 380,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00034",
+    "quantity_on_hand": 360,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00035",
+    "quantity_on_hand": 703,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00042",
+    "quantity_on_hand": 436,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00043",
+    "quantity_on_hand": 479,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00045",
+    "quantity_on_hand": 467,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00047",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00052",
+    "quantity_on_hand": 11,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00053",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00056",
+    "quantity_on_hand": 481,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00059",
+    "quantity_on_hand": 403,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00060",
+    "quantity_on_hand": 275,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00061",
+    "quantity_on_hand": 451,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00064",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00065",
+    "quantity_on_hand": 188,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00069",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00071",
+    "quantity_on_hand": 216,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00073",
+    "quantity_on_hand": 188,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00074",
+    "quantity_on_hand": 44,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00075",
+    "quantity_on_hand": 61,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00078",
+    "quantity_on_hand": 195,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00079",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00080",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00082",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00087",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00088",
+    "quantity_on_hand": 12,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00089",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00090",
+    "quantity_on_hand": 517,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00091",
+    "quantity_on_hand": 414,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00094",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00098",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00099",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00104",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00106",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00108",
+    "quantity_on_hand": 61,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00111",
+    "quantity_on_hand": 186,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00112",
+    "quantity_on_hand": 393,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00113",
+    "quantity_on_hand": 42,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00114",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00119",
+    "quantity_on_hand": 381,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00121",
+    "quantity_on_hand": 46,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00123",
+    "quantity_on_hand": 292,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00125",
+    "quantity_on_hand": 352,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00129",
+    "quantity_on_hand": 442,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00132",
+    "quantity_on_hand": 253,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00134",
+    "quantity_on_hand": 438,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00136",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00141",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00142",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00144",
+    "quantity_on_hand": 163,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00147",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00148",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00150",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00154",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00158",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00159",
+    "quantity_on_hand": 20,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00160",
+    "quantity_on_hand": 136,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00162",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00165",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00166",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00167",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00169",
+    "quantity_on_hand": 222,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00178",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00180",
+    "quantity_on_hand": 319,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00181",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00182",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00184",
+    "quantity_on_hand": 132,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00187",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00188",
+    "quantity_on_hand": 428,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00189",
+    "quantity_on_hand": 77,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00192",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00195",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00196",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00197",
+    "quantity_on_hand": 123,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00198",
+    "quantity_on_hand": 151,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00199",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00200",
+    "quantity_on_hand": 241,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00202",
+    "quantity_on_hand": 53,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00203",
+    "quantity_on_hand": 119,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00204",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00205",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00210",
+    "quantity_on_hand": 257,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00213",
+    "quantity_on_hand": 3,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00215",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00218",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00220",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00221",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00222",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00223",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00226",
+    "quantity_on_hand": 823,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00228",
+    "quantity_on_hand": 160,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00230",
+    "quantity_on_hand": 64,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00231",
+    "quantity_on_hand": 278,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00234",
+    "quantity_on_hand": 96,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00239",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00240",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00241",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00244",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00245",
+    "quantity_on_hand": 366,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00247",
+    "quantity_on_hand": 82,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00248",
+    "quantity_on_hand": 423,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00250",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00254",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00255",
+    "quantity_on_hand": 438,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00256",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00257",
+    "quantity_on_hand": 141,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00259",
+    "quantity_on_hand": 16,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00260",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00262",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00264",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00266",
+    "quantity_on_hand": 126,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00267",
+    "quantity_on_hand": 475,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00271",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00275",
+    "quantity_on_hand": 79,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00277",
+    "quantity_on_hand": 725,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00278",
+    "quantity_on_hand": 357,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00279",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00280",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00285",
+    "quantity_on_hand": 177,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00293",
+    "quantity_on_hand": 82,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00294",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00298",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00300",
+    "quantity_on_hand": 487,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00301",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00311",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00312",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00313",
+    "quantity_on_hand": 314,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00314",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00315",
+    "quantity_on_hand": 532,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00319",
+    "quantity_on_hand": 447,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00320",
+    "quantity_on_hand": 276,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00326",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00340",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00342",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00346",
+    "quantity_on_hand": 313,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00348",
+    "quantity_on_hand": 166,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00349",
+    "quantity_on_hand": 364,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00350",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00351",
+    "quantity_on_hand": 46,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00353",
+    "quantity_on_hand": 16,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00356",
+    "quantity_on_hand": 174,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00358",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00359",
+    "quantity_on_hand": 384,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00360",
+    "quantity_on_hand": 242,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00362",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00363",
+    "quantity_on_hand": 172,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00364",
+    "quantity_on_hand": 13,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00367",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00369",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00371",
+    "quantity_on_hand": 472,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00372",
+    "quantity_on_hand": 205,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00373",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00376",
+    "quantity_on_hand": 411,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00378",
+    "quantity_on_hand": 121,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00379",
+    "quantity_on_hand": 257,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00381",
+    "quantity_on_hand": 30,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00382",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00384",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00387",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00388",
+    "quantity_on_hand": 245,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00390",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00392",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00393",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00395",
+    "quantity_on_hand": 125,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00396",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00397",
+    "quantity_on_hand": 172,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00399",
+    "quantity_on_hand": 183,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH06",
+    "material_id": "MAT00400",
+    "quantity_on_hand": 111,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00001",
+    "quantity_on_hand": 296,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00003",
+    "quantity_on_hand": 105,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00005",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00006",
+    "quantity_on_hand": 577,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00008",
+    "quantity_on_hand": 109,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00011",
+    "quantity_on_hand": 392,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00012",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00013",
+    "quantity_on_hand": 190,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00014",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00016",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00019",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00023",
+    "quantity_on_hand": 196,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00026",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00028",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00029",
+    "quantity_on_hand": 175,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00032",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00035",
+    "quantity_on_hand": 267,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00036",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00041",
+    "quantity_on_hand": 35,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00048",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00049",
+    "quantity_on_hand": 49,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00050",
+    "quantity_on_hand": 39,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00051",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00053",
+    "quantity_on_hand": 482,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00056",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00057",
+    "quantity_on_hand": 139,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00060",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00061",
+    "quantity_on_hand": 294,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00064",
+    "quantity_on_hand": 139,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00065",
+    "quantity_on_hand": 345,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00066",
+    "quantity_on_hand": 16,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00067",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00069",
+    "quantity_on_hand": 137,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00071",
+    "quantity_on_hand": 498,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00073",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00074",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00075",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00076",
+    "quantity_on_hand": 168,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00078",
+    "quantity_on_hand": 589,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00080",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00084",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00088",
+    "quantity_on_hand": 587,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00091",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00092",
+    "quantity_on_hand": 429,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00105",
+    "quantity_on_hand": 184,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00106",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00107",
+    "quantity_on_hand": 409,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00108",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00109",
+    "quantity_on_hand": 56,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00110",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00116",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00117",
+    "quantity_on_hand": 91,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00123",
+    "quantity_on_hand": 159,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00125",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00129",
+    "quantity_on_hand": 302,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00131",
+    "quantity_on_hand": 244,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00132",
+    "quantity_on_hand": 76,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00134",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00135",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00136",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00138",
+    "quantity_on_hand": 606,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00144",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00148",
+    "quantity_on_hand": 428,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00150",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00157",
+    "quantity_on_hand": 165,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00160",
+    "quantity_on_hand": 381,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00161",
+    "quantity_on_hand": 319,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00162",
+    "quantity_on_hand": 70,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00163",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00165",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00171",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00175",
+    "quantity_on_hand": 27,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00177",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00178",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00180",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00181",
+    "quantity_on_hand": 345,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00184",
+    "quantity_on_hand": 62,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00185",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00186",
+    "quantity_on_hand": 9,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00187",
+    "quantity_on_hand": 284,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00188",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00192",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00194",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00197",
+    "quantity_on_hand": 471,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00201",
+    "quantity_on_hand": 496,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00202",
+    "quantity_on_hand": 459,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00205",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00211",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00215",
+    "quantity_on_hand": 152,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00218",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00219",
+    "quantity_on_hand": 58,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00220",
+    "quantity_on_hand": 397,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00221",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00222",
+    "quantity_on_hand": 43,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00226",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00227",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00228",
+    "quantity_on_hand": 264,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00229",
+    "quantity_on_hand": 577,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00231",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00236",
+    "quantity_on_hand": 729,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00238",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00243",
+    "quantity_on_hand": 392,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00245",
+    "quantity_on_hand": 753,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00246",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00249",
+    "quantity_on_hand": 577,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00250",
+    "quantity_on_hand": 5,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00251",
+    "quantity_on_hand": 263,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00252",
+    "quantity_on_hand": 239,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00253",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00256",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00258",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00259",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00260",
+    "quantity_on_hand": 308,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00265",
+    "quantity_on_hand": 411,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00266",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00272",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00273",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00275",
+    "quantity_on_hand": 415,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00283",
+    "quantity_on_hand": 170,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00285",
+    "quantity_on_hand": 25,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00288",
+    "quantity_on_hand": 619,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00289",
+    "quantity_on_hand": 166,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00291",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00292",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00295",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00296",
+    "quantity_on_hand": 339,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00302",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00305",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00313",
+    "quantity_on_hand": 11,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00315",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00319",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00320",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00322",
+    "quantity_on_hand": 321,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00326",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00336",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00337",
+    "quantity_on_hand": 39,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00338",
+    "quantity_on_hand": 80,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00340",
+    "quantity_on_hand": 24,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00344",
+    "quantity_on_hand": 456,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00345",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00346",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00351",
+    "quantity_on_hand": 2,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00354",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00355",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00364",
+    "quantity_on_hand": 253,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00366",
+    "quantity_on_hand": 201,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00369",
+    "quantity_on_hand": 14,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00370",
+    "quantity_on_hand": 2,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00371",
+    "quantity_on_hand": 306,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00373",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00375",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00376",
+    "quantity_on_hand": 397,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00378",
+    "quantity_on_hand": 439,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00381",
+    "quantity_on_hand": 84,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00383",
+    "quantity_on_hand": 419,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00387",
+    "quantity_on_hand": 649,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00388",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00389",
+    "quantity_on_hand": 110,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00390",
+    "quantity_on_hand": 162,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00394",
+    "quantity_on_hand": 144,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00395",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH07",
+    "material_id": "MAT00399",
+    "quantity_on_hand": 113,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00001",
+    "quantity_on_hand": 283,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00002",
+    "quantity_on_hand": 158,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00005",
+    "quantity_on_hand": 30,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00008",
+    "quantity_on_hand": 314,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00010",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00013",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00014",
+    "quantity_on_hand": 277,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00017",
+    "quantity_on_hand": 48,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00026",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00032",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00033",
+    "quantity_on_hand": 286,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00035",
+    "quantity_on_hand": 43,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00036",
+    "quantity_on_hand": 304,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00037",
+    "quantity_on_hand": 334,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00042",
+    "quantity_on_hand": 551,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00044",
+    "quantity_on_hand": 431,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00047",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00048",
+    "quantity_on_hand": 223,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00049",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00050",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00052",
+    "quantity_on_hand": 101,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00057",
+    "quantity_on_hand": 207,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00064",
+    "quantity_on_hand": 723,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00066",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00071",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00076",
+    "quantity_on_hand": 351,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00078",
+    "quantity_on_hand": 231,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00080",
+    "quantity_on_hand": 207,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00088",
+    "quantity_on_hand": 351,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00090",
+    "quantity_on_hand": 482,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00091",
+    "quantity_on_hand": 310,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00093",
+    "quantity_on_hand": 108,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00095",
+    "quantity_on_hand": 182,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00096",
+    "quantity_on_hand": 175,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00099",
+    "quantity_on_hand": 26,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00104",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00105",
+    "quantity_on_hand": 271,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00109",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00110",
+    "quantity_on_hand": 415,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00111",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00113",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00114",
+    "quantity_on_hand": 376,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00118",
+    "quantity_on_hand": 16,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00119",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00121",
+    "quantity_on_hand": 155,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00124",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00129",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00131",
+    "quantity_on_hand": 36,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00136",
+    "quantity_on_hand": 270,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00137",
+    "quantity_on_hand": 34,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00138",
+    "quantity_on_hand": 292,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00141",
+    "quantity_on_hand": 56,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00142",
+    "quantity_on_hand": 812,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00143",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00144",
+    "quantity_on_hand": 494,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00146",
+    "quantity_on_hand": 36,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00147",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00152",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00153",
+    "quantity_on_hand": 17,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00155",
+    "quantity_on_hand": 203,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00156",
+    "quantity_on_hand": 302,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00157",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00162",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00167",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00169",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00170",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00172",
+    "quantity_on_hand": 771,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00174",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00176",
+    "quantity_on_hand": 129,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00178",
+    "quantity_on_hand": 468,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00180",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00181",
+    "quantity_on_hand": 169,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00182",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00184",
+    "quantity_on_hand": 227,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00188",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00192",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00194",
+    "quantity_on_hand": 279,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00201",
+    "quantity_on_hand": 149,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00203",
+    "quantity_on_hand": 79,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00204",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00205",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00207",
+    "quantity_on_hand": 393,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00209",
+    "quantity_on_hand": 345,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00210",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00214",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00218",
+    "quantity_on_hand": 277,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00219",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00220",
+    "quantity_on_hand": 61,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00226",
+    "quantity_on_hand": 548,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00229",
+    "quantity_on_hand": 118,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00232",
+    "quantity_on_hand": 141,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00233",
+    "quantity_on_hand": 92,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00239",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00243",
+    "quantity_on_hand": 304,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00244",
+    "quantity_on_hand": 468,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00245",
+    "quantity_on_hand": 366,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00246",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00247",
+    "quantity_on_hand": 50,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00248",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00249",
+    "quantity_on_hand": 142,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00250",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00251",
+    "quantity_on_hand": 111,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00252",
+    "quantity_on_hand": 62,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00253",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00255",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00257",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00259",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00260",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00262",
+    "quantity_on_hand": 694,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00263",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00266",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00268",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00269",
+    "quantity_on_hand": 159,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00271",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00272",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00273",
+    "quantity_on_hand": 244,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00274",
+    "quantity_on_hand": 51,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00277",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00282",
+    "quantity_on_hand": 30,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00289",
+    "quantity_on_hand": 163,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00291",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00293",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00294",
+    "quantity_on_hand": 236,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00295",
+    "quantity_on_hand": 368,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00296",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00307",
+    "quantity_on_hand": 341,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00312",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00313",
+    "quantity_on_hand": 292,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00317",
+    "quantity_on_hand": 199,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00318",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00320",
+    "quantity_on_hand": 129,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00321",
+    "quantity_on_hand": 312,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00322",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00323",
+    "quantity_on_hand": 287,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00327",
+    "quantity_on_hand": 172,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00331",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00335",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00337",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00339",
+    "quantity_on_hand": 341,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00340",
+    "quantity_on_hand": 72,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00347",
+    "quantity_on_hand": 459,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00348",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00350",
+    "quantity_on_hand": 86,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00351",
+    "quantity_on_hand": 99,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00352",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00359",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00360",
+    "quantity_on_hand": 357,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00362",
+    "quantity_on_hand": 348,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00363",
+    "quantity_on_hand": 213,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00364",
+    "quantity_on_hand": 15,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00366",
+    "quantity_on_hand": 135,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00368",
+    "quantity_on_hand": 165,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00369",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00370",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00371",
+    "quantity_on_hand": 420,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00372",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00373",
+    "quantity_on_hand": 449,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00374",
+    "quantity_on_hand": 59,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00377",
+    "quantity_on_hand": 449,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00378",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00380",
+    "quantity_on_hand": 220,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00381",
+    "quantity_on_hand": 248,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00386",
+    "quantity_on_hand": 94,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00387",
+    "quantity_on_hand": 149,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00389",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00394",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00395",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00396",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  },
+  {
+    "warehouse_id": "WH08",
+    "material_id": "MAT00399",
+    "quantity_on_hand": 0,
+    "as_of_date": "2024-12-31"
+  }
+]
