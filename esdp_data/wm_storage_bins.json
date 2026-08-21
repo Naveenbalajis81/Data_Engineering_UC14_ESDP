@@ -1,0 +1,962 @@
+[
+  {
+    "bin_id": "BIN00001",
+    "warehouse_id": "WH03",
+    "storage_type": "Cold Storage",
+    "capacity": 2728
+  },
+  {
+    "bin_id": "BIN00002",
+    "warehouse_id": "WH01",
+    "storage_type": "Bin",
+    "capacity": 3514
+  },
+  {
+    "bin_id": "BIN00003",
+    "warehouse_id": "WH01",
+    "storage_type": "Bulk",
+    "capacity": 1639
+  },
+  {
+    "bin_id": "BIN00004",
+    "warehouse_id": "WH01",
+    "storage_type": "Cold Storage",
+    "capacity": 1831
+  },
+  {
+    "bin_id": "BIN00005",
+    "warehouse_id": "WH01",
+    "storage_type": "Cold Storage",
+    "capacity": 4068
+  },
+  {
+    "bin_id": "BIN00006",
+    "warehouse_id": "WH04",
+    "storage_type": "Bin",
+    "capacity": 560
+  },
+  {
+    "bin_id": "BIN00007",
+    "warehouse_id": "WH05",
+    "storage_type": "Rack",
+    "capacity": 637
+  },
+  {
+    "bin_id": "BIN00008",
+    "warehouse_id": "WH02",
+    "storage_type": "Bin",
+    "capacity": 4251
+  },
+  {
+    "bin_id": "BIN00009",
+    "warehouse_id": "WH08",
+    "storage_type": "Cold Storage",
+    "capacity": 1211
+  },
+  {
+    "bin_id": "BIN00010",
+    "warehouse_id": "WH02",
+    "storage_type": "Bulk",
+    "capacity": 1523
+  },
+  {
+    "bin_id": "BIN00011",
+    "warehouse_id": "WH03",
+    "storage_type": "Rack",
+    "capacity": 1744
+  },
+  {
+    "bin_id": "BIN00012",
+    "warehouse_id": "WH01",
+    "storage_type": "Bulk",
+    "capacity": 2143
+  },
+  {
+    "bin_id": "BIN00013",
+    "warehouse_id": "WH03",
+    "storage_type": "Bulk",
+    "capacity": 3839
+  },
+  {
+    "bin_id": "BIN00014",
+    "warehouse_id": "WH02",
+    "storage_type": "Bulk",
+    "capacity": 3052
+  },
+  {
+    "bin_id": "BIN00015",
+    "warehouse_id": "WH08",
+    "storage_type": "Rack",
+    "capacity": 2344
+  },
+  {
+    "bin_id": "BIN00016",
+    "warehouse_id": "WH06",
+    "storage_type": "Bin",
+    "capacity": 3902
+  },
+  {
+    "bin_id": "BIN00017",
+    "warehouse_id": "WH03",
+    "storage_type": "Cold Storage",
+    "capacity": 1114
+  },
+  {
+    "bin_id": "BIN00018",
+    "warehouse_id": "WH02",
+    "storage_type": "Bulk",
+    "capacity": 2081
+  },
+  {
+    "bin_id": "BIN00019",
+    "warehouse_id": "WH03",
+    "storage_type": "Bin",
+    "capacity": 4104
+  },
+  {
+    "bin_id": "BIN00020",
+    "warehouse_id": "WH06",
+    "storage_type": "Cold Storage",
+    "capacity": 1554
+  },
+  {
+    "bin_id": "BIN00021",
+    "warehouse_id": "WH04",
+    "storage_type": "Cold Storage",
+    "capacity": 4907
+  },
+  {
+    "bin_id": "BIN00022",
+    "warehouse_id": "WH01",
+    "storage_type": "Bin",
+    "capacity": 2920
+  },
+  {
+    "bin_id": "BIN00023",
+    "warehouse_id": "WH03",
+    "storage_type": "Rack",
+    "capacity": 2218
+  },
+  {
+    "bin_id": "BIN00024",
+    "warehouse_id": "WH08",
+    "storage_type": "Bulk",
+    "capacity": 2435
+  },
+  {
+    "bin_id": "BIN00025",
+    "warehouse_id": "WH07",
+    "storage_type": "Bulk",
+    "capacity": 3266
+  },
+  {
+    "bin_id": "BIN00026",
+    "warehouse_id": "WH02",
+    "storage_type": "Bulk",
+    "capacity": 1434
+  },
+  {
+    "bin_id": "BIN00027",
+    "warehouse_id": "WH05",
+    "storage_type": "Rack",
+    "capacity": 1913
+  },
+  {
+    "bin_id": "BIN00028",
+    "warehouse_id": "WH01",
+    "storage_type": "Rack",
+    "capacity": 1793
+  },
+  {
+    "bin_id": "BIN00029",
+    "warehouse_id": "WH03",
+    "storage_type": "Bin",
+    "capacity": 3454
+  },
+  {
+    "bin_id": "BIN00030",
+    "warehouse_id": "WH06",
+    "storage_type": "Bulk",
+    "capacity": 172
+  },
+  {
+    "bin_id": "BIN00031",
+    "warehouse_id": "WH02",
+    "storage_type": "Cold Storage",
+    "capacity": 1183
+  },
+  {
+    "bin_id": "BIN00032",
+    "warehouse_id": "WH04",
+    "storage_type": "Rack",
+    "capacity": 169
+  },
+  {
+    "bin_id": "BIN00033",
+    "warehouse_id": "WH02",
+    "storage_type": "Rack",
+    "capacity": 2167
+  },
+  {
+    "bin_id": "BIN00034",
+    "warehouse_id": "WH08",
+    "storage_type": "Bin",
+    "capacity": 2355
+  },
+  {
+    "bin_id": "BIN00035",
+    "warehouse_id": "WH06",
+    "storage_type": "Cold Storage",
+    "capacity": 3184
+  },
+  {
+    "bin_id": "BIN00036",
+    "warehouse_id": "WH04",
+    "storage_type": "Bin",
+    "capacity": 3860
+  },
+  {
+    "bin_id": "BIN00037",
+    "warehouse_id": "WH04",
+    "storage_type": "Bin",
+    "capacity": 1887
+  },
+  {
+    "bin_id": "BIN00038",
+    "warehouse_id": "WH08",
+    "storage_type": "Cold Storage",
+    "capacity": 2575
+  },
+  {
+    "bin_id": "BIN00039",
+    "warehouse_id": "WH07",
+    "storage_type": "Cold Storage",
+    "capacity": 4888
+  },
+  {
+    "bin_id": "BIN00040",
+    "warehouse_id": "WH02",
+    "storage_type": "Bulk",
+    "capacity": 160
+  },
+  {
+    "bin_id": "BIN00041",
+    "warehouse_id": "WH07",
+    "storage_type": "Bin",
+    "capacity": 4699
+  },
+  {
+    "bin_id": "BIN00042",
+    "warehouse_id": "WH06",
+    "storage_type": "Bin",
+    "capacity": 2545
+  },
+  {
+    "bin_id": "BIN00043",
+    "warehouse_id": "WH01",
+    "storage_type": "Bulk",
+    "capacity": 4046
+  },
+  {
+    "bin_id": "BIN00044",
+    "warehouse_id": "WH03",
+    "storage_type": "Bulk",
+    "capacity": 2854
+  },
+  {
+    "bin_id": "BIN00045",
+    "warehouse_id": "WH04",
+    "storage_type": "Bin",
+    "capacity": 2763
+  },
+  {
+    "bin_id": "BIN00046",
+    "warehouse_id": "WH08",
+    "storage_type": "Bin",
+    "capacity": 2239
+  },
+  {
+    "bin_id": "BIN00047",
+    "warehouse_id": "WH07",
+    "storage_type": "Bin",
+    "capacity": 1643
+  },
+  {
+    "bin_id": "BIN00048",
+    "warehouse_id": "WH06",
+    "storage_type": "Rack",
+    "capacity": 4337
+  },
+  {
+    "bin_id": "BIN00049",
+    "warehouse_id": "WH03",
+    "storage_type": "Rack",
+    "capacity": 565
+  },
+  {
+    "bin_id": "BIN00050",
+    "warehouse_id": "WH04",
+    "storage_type": "Cold Storage",
+    "capacity": 2718
+  },
+  {
+    "bin_id": "BIN00051",
+    "warehouse_id": "WH03",
+    "storage_type": "Rack",
+    "capacity": 308
+  },
+  {
+    "bin_id": "BIN00052",
+    "warehouse_id": "WH07",
+    "storage_type": "Cold Storage",
+    "capacity": 2521
+  },
+  {
+    "bin_id": "BIN00053",
+    "warehouse_id": "WH04",
+    "storage_type": "Bin",
+    "capacity": 3528
+  },
+  {
+    "bin_id": "BIN00054",
+    "warehouse_id": "WH08",
+    "storage_type": "Cold Storage",
+    "capacity": 3280
+  },
+  {
+    "bin_id": "BIN00055",
+    "warehouse_id": "WH05",
+    "storage_type": "Bulk",
+    "capacity": 4876
+  },
+  {
+    "bin_id": "BIN00056",
+    "warehouse_id": "WH07",
+    "storage_type": "Rack",
+    "capacity": 2911
+  },
+  {
+    "bin_id": "BIN00057",
+    "warehouse_id": "WH03",
+    "storage_type": "Rack",
+    "capacity": 4479
+  },
+  {
+    "bin_id": "BIN00058",
+    "warehouse_id": "WH06",
+    "storage_type": "Cold Storage",
+    "capacity": 3036
+  },
+  {
+    "bin_id": "BIN00059",
+    "warehouse_id": "WH08",
+    "storage_type": "Bin",
+    "capacity": 1492
+  },
+  {
+    "bin_id": "BIN00060",
+    "warehouse_id": "WH01",
+    "storage_type": "Rack",
+    "capacity": 2506
+  },
+  {
+    "bin_id": "BIN00061",
+    "warehouse_id": "WH03",
+    "storage_type": "Bulk",
+    "capacity": 3956
+  },
+  {
+    "bin_id": "BIN00062",
+    "warehouse_id": "WH06",
+    "storage_type": "Rack",
+    "capacity": 2218
+  },
+  {
+    "bin_id": "BIN00063",
+    "warehouse_id": "WH06",
+    "storage_type": "Rack",
+    "capacity": 2849
+  },
+  {
+    "bin_id": "BIN00064",
+    "warehouse_id": "WH04",
+    "storage_type": "Bulk",
+    "capacity": 1920
+  },
+  {
+    "bin_id": "BIN00065",
+    "warehouse_id": "WH08",
+    "storage_type": "Bin",
+    "capacity": 1929
+  },
+  {
+    "bin_id": "BIN00066",
+    "warehouse_id": "WH01",
+    "storage_type": "Bin",
+    "capacity": 3544
+  },
+  {
+    "bin_id": "BIN00067",
+    "warehouse_id": "WH03",
+    "storage_type": "Bin",
+    "capacity": 3144
+  },
+  {
+    "bin_id": "BIN00068",
+    "warehouse_id": "WH03",
+    "storage_type": "Bin",
+    "capacity": 4896
+  },
+  {
+    "bin_id": "BIN00069",
+    "warehouse_id": "WH06",
+    "storage_type": "Bin",
+    "capacity": 3899
+  },
+  {
+    "bin_id": "BIN00070",
+    "warehouse_id": "WH02",
+    "storage_type": "Bulk",
+    "capacity": 3954
+  },
+  {
+    "bin_id": "BIN00071",
+    "warehouse_id": "WH04",
+    "storage_type": "Bulk",
+    "capacity": 4880
+  },
+  {
+    "bin_id": "BIN00072",
+    "warehouse_id": "WH02",
+    "storage_type": "Bulk",
+    "capacity": 3968
+  },
+  {
+    "bin_id": "BIN00073",
+    "warehouse_id": "WH01",
+    "storage_type": "Rack",
+    "capacity": 4199
+  },
+  {
+    "bin_id": "BIN00074",
+    "warehouse_id": "WH07",
+    "storage_type": "Bulk",
+    "capacity": 3226
+  },
+  {
+    "bin_id": "BIN00075",
+    "warehouse_id": "WH05",
+    "storage_type": "Bin",
+    "capacity": 3484
+  },
+  {
+    "bin_id": "BIN00076",
+    "warehouse_id": "WH06",
+    "storage_type": "Bulk",
+    "capacity": 1335
+  },
+  {
+    "bin_id": "BIN00077",
+    "warehouse_id": "WH04",
+    "storage_type": "Rack",
+    "capacity": 1740
+  },
+  {
+    "bin_id": "BIN00078",
+    "warehouse_id": "WH02",
+    "storage_type": "Bin",
+    "capacity": 3452
+  },
+  {
+    "bin_id": "BIN00079",
+    "warehouse_id": "WH06",
+    "storage_type": "Cold Storage",
+    "capacity": 1273
+  },
+  {
+    "bin_id": "BIN00080",
+    "warehouse_id": "WH07",
+    "storage_type": "Bin",
+    "capacity": 1577
+  },
+  {
+    "bin_id": "BIN00081",
+    "warehouse_id": "WH08",
+    "storage_type": "Bulk",
+    "capacity": 4094
+  },
+  {
+    "bin_id": "BIN00082",
+    "warehouse_id": "WH07",
+    "storage_type": "Bin",
+    "capacity": 1548
+  },
+  {
+    "bin_id": "BIN00083",
+    "warehouse_id": "WH01",
+    "storage_type": "Bin",
+    "capacity": 575
+  },
+  {
+    "bin_id": "BIN00084",
+    "warehouse_id": "WH05",
+    "storage_type": "Bulk",
+    "capacity": 3803
+  },
+  {
+    "bin_id": "BIN00085",
+    "warehouse_id": "WH06",
+    "storage_type": "Bin",
+    "capacity": 1815
+  },
+  {
+    "bin_id": "BIN00086",
+    "warehouse_id": "WH05",
+    "storage_type": "Rack",
+    "capacity": 4820
+  },
+  {
+    "bin_id": "BIN00087",
+    "warehouse_id": "WH02",
+    "storage_type": "Rack",
+    "capacity": 4110
+  },
+  {
+    "bin_id": "BIN00088",
+    "warehouse_id": "WH08",
+    "storage_type": "Bulk",
+    "capacity": 1160
+  },
+  {
+    "bin_id": "BIN00089",
+    "warehouse_id": "WH06",
+    "storage_type": "Cold Storage",
+    "capacity": 3617
+  },
+  {
+    "bin_id": "BIN00090",
+    "warehouse_id": "WH02",
+    "storage_type": "Cold Storage",
+    "capacity": 3614
+  },
+  {
+    "bin_id": "BIN00091",
+    "warehouse_id": "WH03",
+    "storage_type": "Cold Storage",
+    "capacity": 3240
+  },
+  {
+    "bin_id": "BIN00092",
+    "warehouse_id": "WH03",
+    "storage_type": "Bulk",
+    "capacity": 409
+  },
+  {
+    "bin_id": "BIN00093",
+    "warehouse_id": "WH02",
+    "storage_type": "Rack",
+    "capacity": 3156
+  },
+  {
+    "bin_id": "BIN00094",
+    "warehouse_id": "WH08",
+    "storage_type": "Bulk",
+    "capacity": 2739
+  },
+  {
+    "bin_id": "BIN00095",
+    "warehouse_id": "WH06",
+    "storage_type": "Rack",
+    "capacity": 246
+  },
+  {
+    "bin_id": "BIN00096",
+    "warehouse_id": "WH05",
+    "storage_type": "Bulk",
+    "capacity": 2138
+  },
+  {
+    "bin_id": "BIN00097",
+    "warehouse_id": "WH05",
+    "storage_type": "Rack",
+    "capacity": 2920
+  },
+  {
+    "bin_id": "BIN00098",
+    "warehouse_id": "WH02",
+    "storage_type": "Bin",
+    "capacity": 1156
+  },
+  {
+    "bin_id": "BIN00099",
+    "warehouse_id": "WH04",
+    "storage_type": "Bulk",
+    "capacity": 3242
+  },
+  {
+    "bin_id": "BIN00100",
+    "warehouse_id": "WH07",
+    "storage_type": "Bin",
+    "capacity": 1468
+  },
+  {
+    "bin_id": "BIN00101",
+    "warehouse_id": "WH08",
+    "storage_type": "Bulk",
+    "capacity": 474
+  },
+  {
+    "bin_id": "BIN00102",
+    "warehouse_id": "WH03",
+    "storage_type": "Bin",
+    "capacity": 2482
+  },
+  {
+    "bin_id": "BIN00103",
+    "warehouse_id": "WH05",
+    "storage_type": "Cold Storage",
+    "capacity": 4362
+  },
+  {
+    "bin_id": "BIN00104",
+    "warehouse_id": "WH04",
+    "storage_type": "Bin",
+    "capacity": 3652
+  },
+  {
+    "bin_id": "BIN00105",
+    "warehouse_id": "WH04",
+    "storage_type": "Rack",
+    "capacity": 2907
+  },
+  {
+    "bin_id": "BIN00106",
+    "warehouse_id": "WH07",
+    "storage_type": "Cold Storage",
+    "capacity": 3042
+  },
+  {
+    "bin_id": "BIN00107",
+    "warehouse_id": "WH04",
+    "storage_type": "Rack",
+    "capacity": 1450
+  },
+  {
+    "bin_id": "BIN00108",
+    "warehouse_id": "WH06",
+    "storage_type": "Cold Storage",
+    "capacity": 256
+  },
+  {
+    "bin_id": "BIN00109",
+    "warehouse_id": "WH04",
+    "storage_type": "Rack",
+    "capacity": 1937
+  },
+  {
+    "bin_id": "BIN00110",
+    "warehouse_id": "WH07",
+    "storage_type": "Rack",
+    "capacity": 1830
+  },
+  {
+    "bin_id": "BIN00111",
+    "warehouse_id": "WH01",
+    "storage_type": "Bulk",
+    "capacity": 4930
+  },
+  {
+    "bin_id": "BIN00112",
+    "warehouse_id": "WH04",
+    "storage_type": "Rack",
+    "capacity": 1108
+  },
+  {
+    "bin_id": "BIN00113",
+    "warehouse_id": "WH01",
+    "storage_type": "Bin",
+    "capacity": 406
+  },
+  {
+    "bin_id": "BIN00114",
+    "warehouse_id": "WH03",
+    "storage_type": "Cold Storage",
+    "capacity": 2195
+  },
+  {
+    "bin_id": "BIN00115",
+    "warehouse_id": "WH03",
+    "storage_type": "Bulk",
+    "capacity": 4965
+  },
+  {
+    "bin_id": "BIN00116",
+    "warehouse_id": "WH01",
+    "storage_type": "Bulk",
+    "capacity": 985
+  },
+  {
+    "bin_id": "BIN00117",
+    "warehouse_id": "WH01",
+    "storage_type": "Bulk",
+    "capacity": 495
+  },
+  {
+    "bin_id": "BIN00118",
+    "warehouse_id": "WH04",
+    "storage_type": "Bulk",
+    "capacity": 3514
+  },
+  {
+    "bin_id": "BIN00119",
+    "warehouse_id": "WH06",
+    "storage_type": "Cold Storage",
+    "capacity": 3215
+  },
+  {
+    "bin_id": "BIN00120",
+    "warehouse_id": "WH08",
+    "storage_type": "Bulk",
+    "capacity": 4583
+  },
+  {
+    "bin_id": "BIN00121",
+    "warehouse_id": "WH02",
+    "storage_type": "Bin",
+    "capacity": 3986
+  },
+  {
+    "bin_id": "BIN00122",
+    "warehouse_id": "WH01",
+    "storage_type": "Rack",
+    "capacity": 1783
+  },
+  {
+    "bin_id": "BIN00123",
+    "warehouse_id": "WH08",
+    "storage_type": "Bulk",
+    "capacity": 2566
+  },
+  {
+    "bin_id": "BIN00124",
+    "warehouse_id": "WH02",
+    "storage_type": "Cold Storage",
+    "capacity": 927
+  },
+  {
+    "bin_id": "BIN00125",
+    "warehouse_id": "WH08",
+    "storage_type": "Bin",
+    "capacity": 1223
+  },
+  {
+    "bin_id": "BIN00126",
+    "warehouse_id": "WH04",
+    "storage_type": "Cold Storage",
+    "capacity": 959
+  },
+  {
+    "bin_id": "BIN00127",
+    "warehouse_id": "WH05",
+    "storage_type": "Bulk",
+    "capacity": 2415
+  },
+  {
+    "bin_id": "BIN00128",
+    "warehouse_id": "WH06",
+    "storage_type": "Bulk",
+    "capacity": 970
+  },
+  {
+    "bin_id": "BIN00129",
+    "warehouse_id": "WH05",
+    "storage_type": "Cold Storage",
+    "capacity": 1727
+  },
+  {
+    "bin_id": "BIN00130",
+    "warehouse_id": "WH05",
+    "storage_type": "Rack",
+    "capacity": 2254
+  },
+  {
+    "bin_id": "BIN00131",
+    "warehouse_id": "WH05",
+    "storage_type": "Rack",
+    "capacity": 3032
+  },
+  {
+    "bin_id": "BIN00132",
+    "warehouse_id": "WH01",
+    "storage_type": "Cold Storage",
+    "capacity": 2519
+  },
+  {
+    "bin_id": "BIN00133",
+    "warehouse_id": "WH02",
+    "storage_type": "Rack",
+    "capacity": 422
+  },
+  {
+    "bin_id": "BIN00134",
+    "warehouse_id": "WH06",
+    "storage_type": "Cold Storage",
+    "capacity": 1801
+  },
+  {
+    "bin_id": "BIN00135",
+    "warehouse_id": "WH08",
+    "storage_type": "Cold Storage",
+    "capacity": 2808
+  },
+  {
+    "bin_id": "BIN00136",
+    "warehouse_id": "WH02",
+    "storage_type": "Rack",
+    "capacity": 122
+  },
+  {
+    "bin_id": "BIN00137",
+    "warehouse_id": "WH06",
+    "storage_type": "Bulk",
+    "capacity": 829
+  },
+  {
+    "bin_id": "BIN00138",
+    "warehouse_id": "WH03",
+    "storage_type": "Bulk",
+    "capacity": 4803
+  },
+  {
+    "bin_id": "BIN00139",
+    "warehouse_id": "WH02",
+    "storage_type": "Cold Storage",
+    "capacity": 1321
+  },
+  {
+    "bin_id": "BIN00140",
+    "warehouse_id": "WH06",
+    "storage_type": "Bulk",
+    "capacity": 4291
+  },
+  {
+    "bin_id": "BIN00141",
+    "warehouse_id": "WH08",
+    "storage_type": "Bulk",
+    "capacity": 929
+  },
+  {
+    "bin_id": "BIN00142",
+    "warehouse_id": "WH07",
+    "storage_type": "Bin",
+    "capacity": 1993
+  },
+  {
+    "bin_id": "BIN00143",
+    "warehouse_id": "WH05",
+    "storage_type": "Cold Storage",
+    "capacity": 2525
+  },
+  {
+    "bin_id": "BIN00144",
+    "warehouse_id": "WH01",
+    "storage_type": "Bin",
+    "capacity": 3903
+  },
+  {
+    "bin_id": "BIN00145",
+    "warehouse_id": "WH07",
+    "storage_type": "Bulk",
+    "capacity": 917
+  },
+  {
+    "bin_id": "BIN00146",
+    "warehouse_id": "WH06",
+    "storage_type": "Rack",
+    "capacity": 423
+  },
+  {
+    "bin_id": "BIN00147",
+    "warehouse_id": "WH05",
+    "storage_type": "Bin",
+    "capacity": 3050
+  },
+  {
+    "bin_id": "BIN00148",
+    "warehouse_id": "WH08",
+    "storage_type": "Bin",
+    "capacity": 3589
+  },
+  {
+    "bin_id": "BIN00149",
+    "warehouse_id": "WH03",
+    "storage_type": "Bulk",
+    "capacity": 878
+  },
+  {
+    "bin_id": "BIN00150",
+    "warehouse_id": "WH07",
+    "storage_type": "Bulk",
+    "capacity": 179
+  },
+  {
+    "bin_id": "BIN00151",
+    "warehouse_id": "WH08",
+    "storage_type": "Rack",
+    "capacity": 1496
+  },
+  {
+    "bin_id": "BIN00152",
+    "warehouse_id": "WH03",
+    "storage_type": "Bin",
+    "capacity": 3028
+  },
+  {
+    "bin_id": "BIN00153",
+    "warehouse_id": "WH06",
+    "storage_type": "Cold Storage",
+    "capacity": 2297
+  },
+  {
+    "bin_id": "BIN00154",
+    "warehouse_id": "WH06",
+    "storage_type": "Bulk",
+    "capacity": 3152
+  },
+  {
+    "bin_id": "BIN00155",
+    "warehouse_id": "WH05",
+    "storage_type": "Bin",
+    "capacity": 1598
+  },
+  {
+    "bin_id": "BIN00156",
+    "warehouse_id": "WH08",
+    "storage_type": "Bulk",
+    "capacity": 3383
+  },
+  {
+    "bin_id": "BIN00157",
+    "warehouse_id": "WH05",
+    "storage_type": "Cold Storage",
+    "capacity": 3839
+  },
+  {
+    "bin_id": "BIN00158",
+    "warehouse_id": "WH05",
+    "storage_type": "Bin",
+    "capacity": 3259
+  },
+  {
+    "bin_id": "BIN00159",
+    "warehouse_id": "WH04",
+    "storage_type": "Cold Storage",
+    "capacity": 3554
+  },
+  {
+    "bin_id": "BIN00160",
+    "warehouse_id": "WH04",
+    "storage_type": "Rack",
+    "capacity": 1026
+  }
+]
