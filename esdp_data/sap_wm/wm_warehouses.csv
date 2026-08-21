@@ -1,9 +1,0 @@
-warehouse_id,warehouse_name,plant,city,state
-WH01,Distribution Center 1,PL02,sao paulo,SP
-WH02,Distribution Center 2,PL02,rio de janeiro,RJ
-WH03,Distribution Center 3,PL03,belo horizonte,MG
-WH04,Distribution Center 4,PL03,curitiba,PR
-WH05,Distribution Center 5,PL01,porto alegre,RS
-WH06,Distribution Center 6,PL01,salvador,BA
-WH07,Distribution Center 7,PL01,recife,PE
-WH08,Distribution Center 8,PL02,brasilia,DF
