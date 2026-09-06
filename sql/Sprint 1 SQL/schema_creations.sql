@@ -1,0 +1,7 @@
+CREATE SCHEMA staging;
+
+CREATE SCHEMA dwh;
+
+CREATE SCHEMA audit;
+
+CREATE SCHEMA metadata;
