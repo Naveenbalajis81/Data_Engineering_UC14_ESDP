@@ -8,7 +8,6 @@ The major SAP modules considered in the UC14 Enterprise SAP Data Platform are Fi
 
 The purpose of the Enterprise SAP Data Platform is to integrate data from these different modules into a centralized platform for enterprise reporting, operational visibility, financial reconciliation, inventory optimization, and executive decision-making.
 
----
 
 ## 2. SAP Modules
 
@@ -23,7 +22,6 @@ The purpose of the Enterprise SAP Data Platform is to integrate data from these 
 | HCM | Human Capital Management | Human Resources | Employee and HR data |
 | CRM | Customer Relationship Management | Customer Management | Customer and relationship data |
 
----
 
 ## 3. FI – Financial Accounting
 
@@ -41,7 +39,6 @@ Example data categories include:
 
 The Enterprise SAP Data Platform will ingest FI data into the raw/staging layer so that it can later support financial analysis and reconciliation.
 
----
 
 ## 4. CO – Controlling
 
@@ -58,7 +55,6 @@ Example data categories include:
 
 CO data will be integrated with other enterprise data to support cross-functional financial and operational analysis.
 
----
 
 ## 5. MM – Materials Management
 
@@ -74,7 +70,6 @@ Example data categories include:
 
 MM data will be ingested into the staging layer and can later support procurement and inventory analytics.
 
----
 
 ## 6. SD – Sales and Distribution
 
@@ -92,7 +87,6 @@ Example data categories include:
 
 SD data will support sales order processing, fulfillment analysis, and enterprise sales reporting.
 
----
 
 ## 7. PP – Production Planning
 
@@ -107,7 +101,6 @@ Example data categories include:
 
 PP data will later support manufacturing and production trend analysis.
 
----
 
 ## 8. WM – Warehouse Management
 
@@ -124,7 +117,6 @@ Example data categories include:
 
 WM data will support inventory visibility and warehouse operational analysis.
 
----
 
 ## 9. HCM – Human Capital Management
 
@@ -139,7 +131,6 @@ Example data categories include:
 
 HCM data will be integrated into the enterprise platform to provide centralized access to HR-related information.
 
----
 
 ## 10. CRM – Customer Relationship Management
 
@@ -156,7 +147,6 @@ Example data categories include:
 
 CRM data will support customer-related enterprise analysis.
 
----
 
 ## 11. Cross-Functional Data Integration
 
@@ -174,7 +164,7 @@ SD sales information can be combined with:
 
 This enables cross-functional enterprise reporting and analytics.
 
----
+
 
 ## 12. SAP Data Platform Flow
 
@@ -196,7 +186,7 @@ Curated Enterprise Data
         ↓ 
 Enterprise Analytics and Reporting
 ```
----
+
 
 ## 13. Business Analytics Enabled
 
@@ -209,7 +199,6 @@ The integrated platform is intended to support:
 - Cross-functional enterprise reporting
 - Executive SAP business dashboards
 
----
 
 ## 14. Conclusion
 
