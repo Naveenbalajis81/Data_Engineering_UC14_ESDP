@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <transformation>
   <info>
-    <name>UC14_Sprint2_Load_Dim_Work_Center</name>
+    <name>UC14_Sprint2_Load_Fact_Payrollktr</name>
     <description/>
     <extended_description/>
     <trans_version/>
     <trans_type>Normal</trans_type>
+    <trans_status>0</trans_status>
     <directory>/</directory>
     <parameters>
     </parameters>
@@ -427,9 +428,9 @@
     <clusterschemas>
     </clusterschemas>
     <created_user>-</created_user>
-    <created_date>2026/09/12 23:33:49.515</created_date>
+    <created_date>2026/09/13 07:42:40.237</created_date>
     <modified_user>-</modified_user>
-    <modified_date>2026/09/12 23:33:49.515</modified_date>
+    <modified_date>2026/09/13 07:42:40.237</modified_date>
     <key_for_session_key/>
     <is_key_private>N</is_key_private>
   </info>
@@ -511,11 +512,20 @@
     </partitioning>
     <connection>UC_14</connection>
     <sql>SELECT
-    work_center_id,
-    work_center_name,
-    plant,
-    capacity_hours
-FROM staging.pp_work_centers;</sql>
+    p.payroll_id,
+    e.employee_key,
+    d.date_key,
+    p.pay_period,
+    p.gross_pay,
+    p.deductions,
+    p.net_pay
+FROM staging.hcm_payroll p
+
+INNER JOIN dw.dim_employee e
+    ON p.employee_id = e.employee_id
+
+INNER JOIN dw.dim_date d
+    ON p.pay_date = d.full_date;</sql>
     <limit>0</limit>
     <lookup/>
     <execute_each_row>N</execute_each_row>
@@ -526,12 +536,58 @@ FROM staging.pp_work_centers;</sql>
       <value-meta>
         <type>String</type>
         <storagetype>normal</storagetype>
-        <name>work_center_id</name>
-        <length>20</length>
+        <name>payroll_id</name>
+        <length>30</length>
         <precision>-1</precision>
         <origin>Table input</origin>
-        <comments>work_center_id</comments>
+        <comments>payroll_id</comments>
         <conversion_Mask/>
+        <decimal_symbol>.</decimal_symbol>
+        <grouping_symbol>,</grouping_symbol>
+        <currency_symbol/>
+        <trim_type>none</trim_type>
+        <case_insensitive>N</case_insensitive>
+        <collator_disabled>Y</collator_disabled>
+        <collator_strength>0</collator_strength>
+        <sort_descending>N</sort_descending>
+        <output_padding>N</output_padding>
+        <date_format_lenient>N</date_format_lenient>
+        <date_format_locale>en_IN</date_format_locale>
+        <date_format_timezone>Asia/Calcutta</date_format_timezone>
+        <lenient_string_to_number>N</lenient_string_to_number>
+      </value-meta>
+      <value-meta>
+        <type>Integer</type>
+        <storagetype>normal</storagetype>
+        <name>employee_key</name>
+        <length>9</length>
+        <precision>0</precision>
+        <origin>Table input</origin>
+        <comments>employee_key</comments>
+        <conversion_Mask>####0;-####0</conversion_Mask>
+        <decimal_symbol>.</decimal_symbol>
+        <grouping_symbol>,</grouping_symbol>
+        <currency_symbol/>
+        <trim_type>none</trim_type>
+        <case_insensitive>N</case_insensitive>
+        <collator_disabled>Y</collator_disabled>
+        <collator_strength>0</collator_strength>
+        <sort_descending>N</sort_descending>
+        <output_padding>N</output_padding>
+        <date_format_lenient>N</date_format_lenient>
+        <date_format_locale>en_IN</date_format_locale>
+        <date_format_timezone>Asia/Calcutta</date_format_timezone>
+        <lenient_string_to_number>N</lenient_string_to_number>
+      </value-meta>
+      <value-meta>
+        <type>Integer</type>
+        <storagetype>normal</storagetype>
+        <name>date_key</name>
+        <length>9</length>
+        <precision>0</precision>
+        <origin>Table input</origin>
+        <comments>date_key</comments>
+        <conversion_Mask>####0;-####0</conversion_Mask>
         <decimal_symbol>.</decimal_symbol>
         <grouping_symbol>,</grouping_symbol>
         <currency_symbol/>
@@ -549,34 +605,11 @@ FROM staging.pp_work_centers;</sql>
       <value-meta>
         <type>String</type>
         <storagetype>normal</storagetype>
-        <name>work_center_name</name>
-        <length>100</length>
-        <precision>-1</precision>
-        <origin>Table input</origin>
-        <comments>work_center_name</comments>
-        <conversion_Mask/>
-        <decimal_symbol>.</decimal_symbol>
-        <grouping_symbol>,</grouping_symbol>
-        <currency_symbol/>
-        <trim_type>none</trim_type>
-        <case_insensitive>N</case_insensitive>
-        <collator_disabled>Y</collator_disabled>
-        <collator_strength>0</collator_strength>
-        <sort_descending>N</sort_descending>
-        <output_padding>N</output_padding>
-        <date_format_lenient>N</date_format_lenient>
-        <date_format_locale>en_IN</date_format_locale>
-        <date_format_timezone>Asia/Calcutta</date_format_timezone>
-        <lenient_string_to_number>N</lenient_string_to_number>
-      </value-meta>
-      <value-meta>
-        <type>String</type>
-        <storagetype>normal</storagetype>
-        <name>plant</name>
+        <name>pay_period</name>
         <length>20</length>
         <precision>-1</precision>
         <origin>Table input</origin>
-        <comments>plant</comments>
+        <comments>pay_period</comments>
         <conversion_Mask/>
         <decimal_symbol>.</decimal_symbol>
         <grouping_symbol>,</grouping_symbol>
@@ -595,11 +628,57 @@ FROM staging.pp_work_centers;</sql>
       <value-meta>
         <type>Number</type>
         <storagetype>normal</storagetype>
-        <name>capacity_hours</name>
-        <length>10</length>
+        <name>gross_pay</name>
+        <length>14</length>
         <precision>2</precision>
         <origin>Table input</origin>
-        <comments>capacity_hours</comments>
+        <comments>gross_pay</comments>
+        <conversion_Mask>####0.0#########;-####0.0#########</conversion_Mask>
+        <decimal_symbol>.</decimal_symbol>
+        <grouping_symbol>,</grouping_symbol>
+        <currency_symbol/>
+        <trim_type>none</trim_type>
+        <case_insensitive>N</case_insensitive>
+        <collator_disabled>Y</collator_disabled>
+        <collator_strength>0</collator_strength>
+        <sort_descending>N</sort_descending>
+        <output_padding>N</output_padding>
+        <date_format_lenient>N</date_format_lenient>
+        <date_format_locale>en_IN</date_format_locale>
+        <date_format_timezone>Asia/Calcutta</date_format_timezone>
+        <lenient_string_to_number>N</lenient_string_to_number>
+      </value-meta>
+      <value-meta>
+        <type>Number</type>
+        <storagetype>normal</storagetype>
+        <name>deductions</name>
+        <length>14</length>
+        <precision>2</precision>
+        <origin>Table input</origin>
+        <comments>deductions</comments>
+        <conversion_Mask>####0.0#########;-####0.0#########</conversion_Mask>
+        <decimal_symbol>.</decimal_symbol>
+        <grouping_symbol>,</grouping_symbol>
+        <currency_symbol/>
+        <trim_type>none</trim_type>
+        <case_insensitive>N</case_insensitive>
+        <collator_disabled>Y</collator_disabled>
+        <collator_strength>0</collator_strength>
+        <sort_descending>N</sort_descending>
+        <output_padding>N</output_padding>
+        <date_format_lenient>N</date_format_lenient>
+        <date_format_locale>en_IN</date_format_locale>
+        <date_format_timezone>Asia/Calcutta</date_format_timezone>
+        <lenient_string_to_number>N</lenient_string_to_number>
+      </value-meta>
+      <value-meta>
+        <type>Number</type>
+        <storagetype>normal</storagetype>
+        <name>net_pay</name>
+        <length>14</length>
+        <precision>2</precision>
+        <origin>Table input</origin>
+        <comments>net_pay</comments>
         <conversion_Mask>####0.0#########;-####0.0#########</conversion_Mask>
         <decimal_symbol>.</decimal_symbol>
         <grouping_symbol>,</grouping_symbol>
@@ -625,8 +704,8 @@ FROM staging.pp_work_centers;</sql>
       </output>
     </remotesteps>
     <GUI>
-      <xloc>128</xloc>
-      <yloc>272</yloc>
+      <xloc>112</xloc>
+      <yloc>336</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
@@ -643,7 +722,7 @@ FROM staging.pp_work_centers;</sql>
     </partitioning>
     <connection>UC_14</connection>
     <schema>dw</schema>
-    <table>dim_work_center</table>
+    <table>fact_payroll</table>
     <commit>1000</commit>
     <truncate>N</truncate>
     <ignore_errors>N</ignore_errors>
@@ -659,22 +738,6 @@ FROM staging.pp_work_centers;</sql>
     <return_keys>N</return_keys>
     <return_field/>
     <fields>
-      <field>
-        <column_name>work_center_id</column_name>
-        <stream_name>work_center_id</stream_name>
-      </field>
-      <field>
-        <column_name>work_center_name</column_name>
-        <stream_name>work_center_name</stream_name>
-      </field>
-      <field>
-        <column_name>plant</column_name>
-        <stream_name>plant</stream_name>
-      </field>
-      <field>
-        <column_name>capacity_hours</column_name>
-        <stream_name>capacity_hours</stream_name>
-      </field>
     </fields>
     <attributes/>
     <cluster_schema/>
@@ -686,7 +749,7 @@ FROM staging.pp_work_centers;</sql>
     </remotesteps>
     <GUI>
       <xloc>592</xloc>
-      <yloc>272</yloc>
+      <yloc>336</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
@@ -704,8 +767,59 @@ FROM staging.pp_work_centers;</sql>
     <fields>
       <select_unspecified>N</select_unspecified>
       <meta>
-        <name>work_center_id</name>
-        <rename>work_center_id</rename>
+        <name>payroll_id</name>
+        <rename>payroll_id</rename>
+        <type>String</type>
+        <length>30</length>
+        <precision>-2</precision>
+        <conversion_mask/>
+        <date_format_lenient>false</date_format_lenient>
+        <date_format_locale/>
+        <date_format_timezone/>
+        <lenient_string_to_number>false</lenient_string_to_number>
+        <encoding/>
+        <decimal_symbol/>
+        <grouping_symbol/>
+        <currency_symbol/>
+        <storage_type/>
+      </meta>
+      <meta>
+        <name>employee_key</name>
+        <rename>employee_key</rename>
+        <type>Integer</type>
+        <length>9</length>
+        <precision>0</precision>
+        <conversion_mask/>
+        <date_format_lenient>false</date_format_lenient>
+        <date_format_locale/>
+        <date_format_timezone/>
+        <lenient_string_to_number>false</lenient_string_to_number>
+        <encoding/>
+        <decimal_symbol/>
+        <grouping_symbol/>
+        <currency_symbol/>
+        <storage_type/>
+      </meta>
+      <meta>
+        <name>date_key</name>
+        <rename>date_key</rename>
+        <type>Integer</type>
+        <length>9</length>
+        <precision>0</precision>
+        <conversion_mask/>
+        <date_format_lenient>false</date_format_lenient>
+        <date_format_locale/>
+        <date_format_timezone/>
+        <lenient_string_to_number>false</lenient_string_to_number>
+        <encoding/>
+        <decimal_symbol/>
+        <grouping_symbol/>
+        <currency_symbol/>
+        <storage_type/>
+      </meta>
+      <meta>
+        <name>pay_period</name>
+        <rename>pay_period</rename>
         <type>String</type>
         <length>20</length>
         <precision>-2</precision>
@@ -721,44 +835,44 @@ FROM staging.pp_work_centers;</sql>
         <storage_type/>
       </meta>
       <meta>
-        <name>work_center_name</name>
-        <rename>work_center_name</rename>
-        <type>String</type>
-        <length>100</length>
-        <precision>-2</precision>
-        <conversion_mask/>
-        <date_format_lenient>false</date_format_lenient>
-        <date_format_locale/>
-        <date_format_timezone/>
-        <lenient_string_to_number>false</lenient_string_to_number>
-        <encoding/>
-        <decimal_symbol/>
-        <grouping_symbol/>
-        <currency_symbol/>
-        <storage_type/>
-      </meta>
-      <meta>
-        <name>plant</name>
-        <rename>plant</rename>
-        <type>String</type>
-        <length>20</length>
-        <precision>-2</precision>
-        <conversion_mask/>
-        <date_format_lenient>false</date_format_lenient>
-        <date_format_locale/>
-        <date_format_timezone/>
-        <lenient_string_to_number>false</lenient_string_to_number>
-        <encoding/>
-        <decimal_symbol/>
-        <grouping_symbol/>
-        <currency_symbol/>
-        <storage_type/>
-      </meta>
-      <meta>
-        <name>capacity_hours</name>
-        <rename>capacity_hours</rename>
+        <name>gross_pay</name>
+        <rename>gross_pay</rename>
         <type>Number</type>
-        <length>10</length>
+        <length>14</length>
+        <precision>2</precision>
+        <conversion_mask/>
+        <date_format_lenient>false</date_format_lenient>
+        <date_format_locale/>
+        <date_format_timezone/>
+        <lenient_string_to_number>false</lenient_string_to_number>
+        <encoding/>
+        <decimal_symbol/>
+        <grouping_symbol/>
+        <currency_symbol/>
+        <storage_type/>
+      </meta>
+      <meta>
+        <name>deductions</name>
+        <rename>deductions</rename>
+        <type>Number</type>
+        <length>14</length>
+        <precision>2</precision>
+        <conversion_mask/>
+        <date_format_lenient>false</date_format_lenient>
+        <date_format_locale/>
+        <date_format_timezone/>
+        <lenient_string_to_number>false</lenient_string_to_number>
+        <encoding/>
+        <decimal_symbol/>
+        <grouping_symbol/>
+        <currency_symbol/>
+        <storage_type/>
+      </meta>
+      <meta>
+        <name>net_pay</name>
+        <rename>net_pay</rename>
+        <type>Number</type>
+        <length>14</length>
         <precision>2</precision>
         <conversion_mask/>
         <date_format_lenient>false</date_format_lenient>
@@ -781,8 +895,8 @@ FROM staging.pp_work_centers;</sql>
       </output>
     </remotesteps>
     <GUI>
-      <xloc>352</xloc>
-      <yloc>272</yloc>
+      <xloc>336</xloc>
+      <yloc>336</yloc>
       <draw>Y</draw>
     </GUI>
   </step>

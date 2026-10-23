@@ -1,0 +1,348 @@
+schema,table,column,dtype,rows,nulls,null_pct,distinct,min,max
+dw,dim_company,company_key,int64,1,0,0.0,1,1,1
+dw,dim_company,company_code,str,1,0,0.0,1,1000,1000
+dw,dim_cost_center,cost_center_key,int64,25,0,0.0,25,1,25
+dw,dim_cost_center,cost_center,str,25,0,0.0,25,CC0001,CC0025
+dw,dim_cost_center,cost_center_name,str,25,0,0.0,25,Finance Cost Center 13,Warehouse Cost Center 5
+dw,dim_cost_center,department,str,25,0,0.0,10,Finance,Warehouse
+dw,dim_cost_center,company_code,str,25,0,0.0,1,1000,1000
+dw,dim_cost_center,responsible_person,str,25,0,0.0,25,Angelica Tucker,Tricia Valencia
+dw,dim_customer,customer_key,int64,2000,0,0.0,2000,1,2000
+dw,dim_customer,customer_id,str,2000,0,0.0,2000,CUST000001,CUST002000
+dw,dim_customer,customer_unique_id,str,2000,0,0.0,2000,CUNQ000001,CUNQ002000
+dw,dim_customer,customer_zip_code_prefix,str,2000,0,0.0,1972,10012,99959
+dw,dim_customer,customer_city,str,2000,0,0.0,61,ananindeua,vitoria da conquista
+dw,dim_customer,customer_state,str,2000,0,0.0,27,AC,TO
+dw,dim_date,date_key,int64,1461,0,0.0,1461,20220101,20251231
+dw,dim_date,full_date,object,1461,0,0.0,1461,2022-01-01,2025-12-31
+dw,dim_date,day_number,int64,1461,0,0.0,31,1,31
+dw,dim_date,day_name,str,1461,0,0.0,7,Friday,Wednesday
+dw,dim_date,month_number,int64,1461,0,0.0,12,1,12
+dw,dim_date,month_name,str,1461,0,0.0,12,April,September
+dw,dim_date,quarter_number,int64,1461,0,0.0,4,1,4
+dw,dim_date,year_number,int64,1461,0,0.0,4,2022,2025
+dw,dim_date,week_number,int64,1461,0,0.0,52,1,52
+dw,dim_date,day_of_week,int64,1461,0,0.0,7,1,7
+dw,dim_department,department_key,int64,12,0,0.0,12,1,12
+dw,dim_department,department_id,str,12,0,0.0,12,DEPT001,DEPT012
+dw,dim_department,department_name,str,12,0,0.0,12,Customer Service,Warehouse
+dw,dim_department,company_code,str,12,0,0.0,1,1000,1000
+dw,dim_department,cost_center,str,12,0,0.0,11,CC0001,CC0023
+dw,dim_employee,employee_key,int64,250,0,0.0,250,1,250
+dw,dim_employee,employee_id,str,250,0,0.0,250,EMP00001,EMP00250
+dw,dim_employee,employee_name,str,250,0,0.0,250,Aaron Bell,William Wilson
+dw,dim_employee,department_id,str,250,0,0.0,12,DEPT001,DEPT012
+dw,dim_employee,position_id,str,250,0,0.0,33,POS0001,POS0034
+dw,dim_employee,hire_date,object,250,0,0.0,244,2018-01-02,2024-12-19
+dw,dim_employee,employment_status,str,250,0,0.0,3,Active,Terminated
+dw,dim_employee,location,str,250,0,0.0,250,Alyssaview,Zacharyside
+dw,dim_material,material_key,int64,400,0,0.0,400,1,400
+dw,dim_material,material_id,str,400,0,0.0,400,MAT00001,MAT00400
+dw,dim_material,product_id,str,400,0,0.0,400,PROD00001,PROD00400
+dw,dim_material,material_type,str,400,0,0.0,2,FERT,HALB
+dw,dim_material,base_unit,str,400,0,0.0,1,EA,EA
+dw,dim_material,material_group,str,400,0,0.0,40,air_conditioning,watches_gifts
+dw,dim_material,standard_price,float64,400,0,0.0,400,10.06,697.91
+dw,dim_product,product_key,int64,400,0,0.0,400,1,400
+dw,dim_product,product_id,str,400,0,0.0,400,PROD00001,PROD00400
+dw,dim_product,product_category_name,str,400,0,0.0,40,air_conditioning,watches_gifts
+dw,dim_product,product_name_length,int64,400,0,0.0,46,15,60
+dw,dim_product,product_description_length,int64,400,0,0.0,378,137,2978
+dw,dim_product,product_photos_qty,int64,400,0,0.0,8,1,8
+dw,dim_product,product_weight_g,int64,400,0,0.0,393,66,19958
+dw,dim_product,product_length_cm,int64,400,0,0.0,95,5,100
+dw,dim_product,product_height_cm,int64,400,0,0.0,79,2,80
+dw,dim_product,product_width_cm,int64,400,0,0.0,86,5,90
+dw,dim_vendor,vendor_key,int64,150,0,0.0,150,1,150
+dw,dim_vendor,vendor_id,str,150,0,0.0,150,VEND00001,VEND00150
+dw,dim_vendor,vendor_name,str,150,0,0.0,149,"Adams, Christian and Rivas",Yu Inc
+dw,dim_vendor,seller_id,str,150,0,0.0,150,SELL00001,SELL00150
+dw,dim_vendor,country,str,150,0,0.0,1,BR,BR
+dw,dim_vendor,payment_terms,str,150,0,0.0,4,NET15,NET60
+dw,dim_vendor,currency,str,150,0,0.0,1,BRL,BRL
+dw,dim_warehouse,warehouse_key,int64,8,0,0.0,8,1,8
+dw,dim_warehouse,warehouse_id,str,8,0,0.0,8,WH01,WH08
+dw,dim_warehouse,warehouse_name,str,8,0,0.0,8,Distribution Center 1,Distribution Center 8
+dw,dim_warehouse,plant,str,8,0,0.0,3,PL01,PL03
+dw,dim_warehouse,city,str,8,0,0.0,8,belo horizonte,sao paulo
+dw,dim_warehouse,state,str,8,0,0.0,8,BA,SP
+dw,dim_work_center,work_center_key,int64,15,0,0.0,15,1,15
+dw,dim_work_center,work_center_id,str,15,0,0.0,15,WC001,WC015
+dw,dim_work_center,work_center_name,str,15,0,0.0,15,Assembly Line 1,Welding Line 6
+dw,dim_work_center,plant,str,15,0,0.0,2,PL01,PL03
+dw,dim_work_center,capacity_hours,float64,15,0,0.0,10,8.0,24.0
+dw,fact_finance_gl,finance_gl_key,int64,4526,0,0.0,4526,1,4526
+dw,fact_finance_gl,document_number,str,4526,0,0.0,2263,JE0000001,JE0002263
+dw,fact_finance_gl,line_item,int64,4526,0,0.0,2,1,2
+dw,fact_finance_gl,date_key,int64,4526,0,0.0,710,20230101,20250114
+dw,fact_finance_gl,company_key,int64,4526,0,0.0,1,1,1
+dw,fact_finance_gl,cost_center_key,float64,4526,3600,79.54,25,1.0,25.0
+dw,fact_finance_gl,gl_account,str,4526,0,0.0,6,100000,600000
+dw,fact_finance_gl,debit_credit_indicator,str,4526,0,0.0,2,C,D
+dw,fact_finance_gl,amount,float64,4526,0,0.0,2249,27.75,2417125.24
+dw,fact_finance_gl,profit_center,str,4526,926,20.46,15,PC001,PC015
+dw,fact_finance_gl,order_id,str,4526,926,20.46,1800,ORD000001,ORD003000
+dw,fact_finance_gl,currency,str,4526,0,0.0,1,BRL,BRL
+dw,fact_finance_gl,document_type,str,4526,0,0.0,3,KR,RV
+dw,fact_inventory_movement,movement_key,int64,1828,0,0.0,1828,1,1828
+dw,fact_inventory_movement,movement_id,str,1828,0,0.0,1828,MOV000001,MOV001828
+dw,fact_inventory_movement,material_id,str,1828,0,0.0,394,MAT00001,MAT00400
+dw,fact_inventory_movement,warehouse_key,int64,1828,0,0.0,8,1,8
+dw,fact_inventory_movement,product_key,int64,1828,0,0.0,394,1,400
+dw,fact_inventory_movement,date_key,int64,1828,0,0.0,685,20230101,20250201
+dw,fact_inventory_movement,movement_type,str,1828,0,0.0,3,GI_261_Goods_Issue_Production,GR_101_Goods_Receipt
+dw,fact_inventory_movement,quantity,int64,1828,0,0.0,597,-200,500
+dw,fact_inventory_movement,reference_document,str,1828,0,0.0,1809,DELV000002,PRO000499
+dw,fact_payroll,payroll_key,object,0,0,0.0,0,,
+dw,fact_payroll,payroll_id,object,0,0,0.0,0,,
+dw,fact_payroll,employee_key,object,0,0,0.0,0,,
+dw,fact_payroll,date_key,object,0,0,0.0,0,,
+dw,fact_payroll,pay_period,object,0,0,0.0,0,,
+dw,fact_payroll,gross_pay,object,0,0,0.0,0,,
+dw,fact_payroll,deductions,object,0,0,0.0,0,,
+dw,fact_payroll,net_pay,object,0,0,0.0,0,,
+dw,fact_procurement,procurement_key,int64,1209,0,0.0,1209,1,1209
+dw,fact_procurement,po_id,str,1209,0,0.0,600,PO000001,PO000600
+dw,fact_procurement,po_item,int64,1209,0,0.0,3,1,3
+dw,fact_procurement,date_key,int64,1209,0,0.0,420,20230102,20241231
+dw,fact_procurement,vendor_key,int64,1209,0,0.0,146,2,150
+dw,fact_procurement,product_key,int64,1209,0,0.0,374,1,400
+dw,fact_procurement,company_key,int64,1209,0,0.0,1,1,1
+dw,fact_procurement,plant,str,1209,0,0.0,3,PL01,PL03
+dw,fact_procurement,quantity,int64,1209,0,0.0,448,10,500
+dw,fact_procurement,unit_price,float64,1209,0,0.0,1199,8.34,649.33
+dw,fact_procurement,total_amount,float64,1209,0,0.0,1209,164.32,311299.52
+dw,fact_procurement,currency,str,1209,0,0.0,1,BRL,BRL
+dw,fact_production,production_key,int64,500,0,0.0,500,1,500
+dw,fact_production,production_order_id,str,500,0,0.0,500,PRO000001,PRO000500
+dw,fact_production,date_key,int64,500,0,0.0,362,20230102,20241230
+dw,fact_production,material_key,int64,500,0,0.0,239,1,399
+dw,fact_production,work_center_key,int64,500,0,0.0,15,1,15
+dw,fact_production,plant,str,500,0,0.0,3,PL01,PL03
+dw,fact_production,order_quantity,int64,500,0,0.0,441,63,1997
+dw,fact_production,status,str,500,0,0.0,4,Completed,Planned
+dw,fact_sales,sales_key,int64,4735,0,0.0,4735,1,4735
+dw,fact_sales,order_id,str,4735,0,0.0,3000,ORD000001,ORD003000
+dw,fact_sales,order_item_id,int64,4735,0,0.0,4,1,4
+dw,fact_sales,date_key,int64,4735,0,0.0,721,20230101,20241231
+dw,fact_sales,customer_key,int64,4735,0,0.0,1537,1,2000
+dw,fact_sales,product_key,int64,4735,0,0.0,400,1,400
+dw,fact_sales,vendor_key,int64,4735,0,0.0,150,1,150
+dw,fact_sales,price,float64,4735,0,0.0,4607,15.11,899.99
+dw,fact_sales,freight_value,float64,4735,0,0.0,3520,5.01,79.98
+staging,co_cost_centers,cost_center,str,25,0,0.0,25,CC0001,CC0025
+staging,co_cost_centers,cost_center_name,str,25,0,0.0,25,Finance Cost Center 13,Warehouse Cost Center 5
+staging,co_cost_centers,department,str,25,0,0.0,10,Finance,Warehouse
+staging,co_cost_centers,company_code,str,25,0,0.0,1,1000.0,1000.0
+staging,co_cost_centers,responsible_person,str,25,0,0.0,25,Angelica Tucker,Tricia Valencia
+staging,co_postings,posting_id,str,750,0,0.0,750,COP000001,COP001499
+staging,co_postings,cost_center,str,750,0,0.0,25,CC0001,CC0025
+staging,co_postings,gl_account,str,750,0,0.0,5,400000,440000
+staging,co_postings,fiscal_year,int64,750,0,0.0,2,2023,2024
+staging,co_postings,period,int64,750,0,0.0,12,1,12
+staging,co_postings,amount,float64,750,0,0.0,750,553.77,49968.99
+staging,co_postings,posting_date,datetime64[us],750,0,0.0,464,2023-01-02 00:00:00,2024-12-31 00:00:00
+staging,co_profit_centers,profit_center,str,15,0,0.0,15,PC001,PC015
+staging,co_profit_centers,profit_center_name,str,15,0,0.0,15,Corporate Profit Center,Wholesale Profit Center
+staging,co_profit_centers,business_area,str,15,0,0.0,15,Corporate,Wholesale
+staging,crm_interactions,interaction_id,str,1500,0,0.0,1500,INT000001,INT001500
+staging,crm_interactions,customer_id,str,1500,0,0.0,1045,CUNQ000001,CUNQ001997
+staging,crm_interactions,interaction_type,str,1500,0,0.0,5,Chat,Support Ticket
+staging,crm_interactions,interaction_date,object,1500,0,0.0,641,2023-01-01,2024-12-31
+staging,crm_interactions,channel,str,1500,0,0.0,5,Email,Web Chat
+staging,crm_interactions,notes,str,1500,0,0.0,1500,A at teach enter lot at life wonder.,Your long heavy what least mouth national put test race.
+staging,crm_interactions,related_order_id,str,1500,578,38.53,777,ORD000013,ORD002999
+staging,crm_leads,lead_id,str,600,0,0.0,600,LEAD00001,LEAD00600
+staging,crm_leads,customer_id,str,600,0,0.0,527,CUNQ000002,CUNQ001995
+staging,crm_leads,lead_source,str,600,0,0.0,6,Cold Call,Website
+staging,crm_leads,lead_status,str,600,0,0.0,5,Contacted,Qualified
+staging,crm_leads,created_date,object,600,0,0.0,417,2023-01-02,2024-12-31
+staging,crm_leads,owner_employee_id,str,600,0,0.0,19,EMP00016,EMP00249
+staging,crm_opportunities,opportunity_id,str,151,0,0.0,151,OPP00001,OPP00151
+staging,crm_opportunities,lead_id,str,151,0,0.0,151,LEAD00003,LEAD00600
+staging,crm_opportunities,customer_id,str,151,0,0.0,146,CUNQ000002,CUNQ001994
+staging,crm_opportunities,opportunity_stage,str,151,0,0.0,4,Closed Lost,Proposal Sent
+staging,crm_opportunities,expected_value,float64,151,0,0.0,151,276.69,14959.48
+staging,crm_opportunities,close_date,object,151,0,0.0,133,2023-01-27,2025-01-22
+staging,fi_ap_invoices,invoice_id,str,460,0,0.0,460,APINV000001,APINV000460
+staging,fi_ap_invoices,po_id,str,460,0,0.0,460,PO000002,PO000599
+staging,fi_ap_invoices,vendor_id,str,460,0,0.0,142,VEND00002,VEND00150
+staging,fi_ap_invoices,invoice_date,datetime64[us],460,0,0.0,346,2023-01-13 00:00:00,2025-01-14 00:00:00
+staging,fi_ap_invoices,due_date,datetime64[us],460,0,0.0,346,2023-02-27 00:00:00,2025-02-28 00:00:00
+staging,fi_ap_invoices,amount,float64,460,0,0.0,460,1129.62,59838.88
+staging,fi_ap_invoices,currency,str,460,0,0.0,1,BRL,BRL
+staging,fi_ap_invoices,payment_status,str,460,0,0.0,3,Open,Paid
+staging,fi_ar_invoices,invoice_id,str,3000,0,0.0,3000,ARINV000001,ARINV003000
+staging,fi_ar_invoices,order_id,str,3000,0,0.0,3000,ORD000001,ORD003000
+staging,fi_ar_invoices,customer_id,str,3000,0,0.0,1537,CUST000001,CUST002000
+staging,fi_ar_invoices,invoice_date,datetime64[us],3000,0,0.0,3000,2023-01-01 10:48:29,2024-12-31 20:12:24
+staging,fi_ar_invoices,due_date,datetime64[us],3000,0,0.0,3000,2023-01-31 10:48:29,2025-01-30 20:12:24
+staging,fi_ar_invoices,amount,float64,3000,0,0.0,2965,27.75,2914.37
+staging,fi_ar_invoices,currency,str,3000,0,0.0,1,BRL,BRL
+staging,fi_ar_invoices,payment_status,str,3000,0,0.0,3,Cancelled,Paid
+staging,fi_gl_accounts,gl_account,str,17,0,0.0,17,100000,610000
+staging,fi_gl_accounts,account_name,str,17,0,0.0,17,Accounts Payable,Warehouse & Logistics Costs
+staging,fi_gl_accounts,account_type,str,17,0,0.0,5,Asset,Revenue
+staging,fi_gl_accounts,account_group,str,17,0,0.0,2,Balance Sheet,P&L
+staging,fi_journal_entries,document_number,str,2263,0,0.0,2263,JE0000001,JE0002263
+staging,fi_journal_entries,company_code,str,2263,0,0.0,1,1000,1000
+staging,fi_journal_entries,fiscal_year,int64,2263,0,0.0,3,2023,2025
+staging,fi_journal_entries,posting_date,datetime64[us],2263,0,0.0,2148,2023-01-01 12:26:31,2025-01-14 00:00:00
+staging,fi_journal_entries,document_date,datetime64[us],2263,0,0.0,2148,2023-01-01 12:26:31,2025-01-14 00:00:00
+staging,fi_journal_entries,document_type,str,2263,0,0.0,3,KR,RV
+staging,fi_journal_entries,currency,str,2263,0,0.0,1,BRL,BRL
+staging,fi_journal_entries,reference,str,2263,0,0.0,2263,APINV000001,PAYROLL-2024-03
+staging,fi_journal_entries,created_by,str,2263,0,0.0,2226,aaronkelly,zwelch
+staging,fi_journal_entry_items,document_number,str,4526,0,0.0,2263,JE0000001,JE0002263
+staging,fi_journal_entry_items,line_item,int64,4526,0,0.0,2,1,2
+staging,fi_journal_entry_items,gl_account,str,4526,0,0.0,6,100000,600000
+staging,fi_journal_entry_items,debit_credit_indicator,str,4526,0,0.0,2,C,D
+staging,fi_journal_entry_items,amount,float64,4526,0,0.0,2249,27.75,2417125.24
+staging,fi_journal_entry_items,cost_center,str,4526,3600,79.54,25,CC0001,CC0025
+staging,fi_journal_entry_items,profit_center,str,4526,926,20.46,15,PC001,PC015
+staging,fi_journal_entry_items,order_id,str,4526,926,20.46,1800,ORD000001,ORD003000
+staging,hcm_departments,department_id,str,12,0,0.0,12,DEPT001,DEPT012
+staging,hcm_departments,department_name,str,12,0,0.0,12,Customer Service,Warehouse
+staging,hcm_departments,company_code,str,12,0,0.0,1,1000,1000
+staging,hcm_departments,cost_center,str,12,0,0.0,11,CC0001,CC0023
+staging,hcm_employees,employee_id,str,250,0,0.0,250,EMP00001,EMP00250
+staging,hcm_employees,employee_name,str,250,0,0.0,250,Aaron Bell,William Wilson
+staging,hcm_employees,department_id,str,250,0,0.0,12,DEPT001,DEPT012
+staging,hcm_employees,position_id,str,250,0,0.0,33,POS0001,POS0034
+staging,hcm_employees,hire_date,object,250,0,0.0,244,2018-01-02,2024-12-19
+staging,hcm_employees,employment_status,str,250,0,0.0,3,Active,Terminated
+staging,hcm_employees,location,str,250,0,0.0,250,Alyssaview,Zacharyside
+staging,hcm_payroll,payroll_id,str,723,0,0.0,723,PAY000001,PAY000723
+staging,hcm_payroll,employee_id,str,723,0,0.0,241,EMP00002,EMP00250
+staging,hcm_payroll,pay_period,str,723,0,0.0,3,2024-01,2024-03
+staging,hcm_payroll,gross_pay,float64,723,0,0.0,241,2711.95,17952.65
+staging,hcm_payroll,deductions,float64,723,0,0.0,722,286.77,3882.92
+staging,hcm_payroll,net_pay,float64,723,0,0.0,723,2145.42,15713.11
+staging,hcm_payroll,pay_date,object,723,0,0.0,3,2024-01-28,2024-03-28
+staging,hcm_positions,position_id,str,34,0,0.0,34,POS0001,POS0034
+staging,hcm_positions,position_title,str,34,0,0.0,34,Analyst - Procurement,Team Lead - Sales
+staging,hcm_positions,department_id,str,34,0,0.0,12,DEPT001,DEPT012
+staging,mm_goods_receipts,gr_id,str,928,0,0.0,928,GR000001,GR000928
+staging,mm_goods_receipts,po_id,str,928,0,0.0,460,PO000002,PO000599
+staging,mm_goods_receipts,po_item,int64,928,0,0.0,3,1,3
+staging,mm_goods_receipts,material_id,str,928,0,0.0,353,MAT00001,MAT00400
+staging,mm_goods_receipts,quantity,int64,928,0,0.0,424,8,500
+staging,mm_goods_receipts,gr_date,object,928,0,0.0,524,2023-01-15,2025-02-01
+staging,mm_goods_receipts,plant,str,928,0,0.0,3,PL01,PL03
+staging,mm_goods_receipts,warehouse,str,928,0,0.0,8,WH01,WH08
+staging,mm_material_master,material_id,str,400,0,0.0,400,MAT00001,MAT00400
+staging,mm_material_master,product_id,str,400,0,0.0,400,PROD00001,PROD00400
+staging,mm_material_master,material_type,str,400,0,0.0,2,FERT,HALB
+staging,mm_material_master,base_unit,str,400,0,0.0,1,EA,EA
+staging,mm_material_master,material_group,str,400,0,0.0,40,air_conditioning,watches_gifts
+staging,mm_material_master,standard_price,float64,400,0,0.0,400,10.06,697.91
+staging,mm_purchase_order_items,po_id,str,1209,0,0.0,600,PO000001,PO000600
+staging,mm_purchase_order_items,po_item,int64,1209,0,0.0,3,1,3
+staging,mm_purchase_order_items,material_id,str,1209,0,0.0,374,MAT00001,MAT00400
+staging,mm_purchase_order_items,quantity,int64,1209,0,0.0,448,10,500
+staging,mm_purchase_order_items,unit_price,float64,1209,0,0.0,1199,8.34,649.33
+staging,mm_purchase_order_items,delivery_date,object,1209,0,0.0,582,2023-01-11,2025-01-30
+staging,mm_purchase_order_items,plant,str,1209,0,0.0,3,PL01,PL03
+staging,mm_purchase_orders,po_id,str,600,0,0.0,600,PO000001,PO000600
+staging,mm_purchase_orders,vendor_id,str,600,0,0.0,146,VEND00002,VEND00150
+staging,mm_purchase_orders,po_date,object,600,0,0.0,420,2023-01-02,2024-12-31
+staging,mm_purchase_orders,company_code,str,600,0,0.0,1,1000.0,1000.0
+staging,mm_purchase_orders,currency,str,600,0,0.0,1,BRL,BRL
+staging,mm_purchase_orders,status,str,600,0,0.0,4,Cancelled,Partially Received
+staging,mm_vendors,vendor_id,str,150,0,0.0,150,VEND00001,VEND00150
+staging,mm_vendors,vendor_name,str,150,0,0.0,149,"Adams, Christian and Rivas",Yu Inc
+staging,mm_vendors,seller_id,str,150,0,0.0,150,SELL00001,SELL00150
+staging,mm_vendors,country,str,150,0,0.0,1,BR,BR
+staging,mm_vendors,payment_terms,str,150,0,0.0,4,NET15,NET60
+staging,mm_vendors,currency,str,150,0,0.0,1,BRL,BRL
+staging,olist_customers,customer_id,str,2000,0,0.0,2000,CUST000001,CUST002000
+staging,olist_customers,customer_unique_id,str,2000,0,0.0,2000,CUNQ000001,CUNQ002000
+staging,olist_customers,customer_zip_code_prefix,str,2000,0,0.0,1972,10012,99959
+staging,olist_customers,customer_city,str,2000,0,0.0,61,ananindeua,vitoria da conquista
+staging,olist_customers,customer_state,str,2000,0,0.0,27,AC,TO
+staging,olist_geolocation,geolocation_zip_code_prefix,str,1000,0,0.0,990,10110,99850
+staging,olist_geolocation,geolocation_lat,float64,1000,0,0.0,1000,-32.996749,4.924173
+staging,olist_geolocation,geolocation_lng,float64,1000,0,0.0,1000,-72.979369,-35.038494
+staging,olist_geolocation,geolocation_city,str,1000,0,0.0,61,ananindeua,vitoria da conquista
+staging,olist_geolocation,geolocation_state,str,1000,0,0.0,27,AC,TO
+staging,olist_order_items,order_id,str,4735,0,0.0,3000,ORD000001,ORD003000
+staging,olist_order_items,order_item_id,int64,4735,0,0.0,4,1,4
+staging,olist_order_items,product_id,str,4735,0,0.0,400,PROD00001,PROD00400
+staging,olist_order_items,seller_id,str,4735,0,0.0,150,SELL00001,SELL00150
+staging,olist_order_items,shipping_limit_date,datetime64[us],4735,0,0.0,4735,2023-01-01 15:56:25,2024-12-31 23:59:31
+staging,olist_order_items,price,float64,4735,0,0.0,4607,15.11,899.99
+staging,olist_order_items,freight_value,float64,4735,0,0.0,3520,5.01,79.98
+staging,olist_order_payments,order_id,str,3486,0,0.0,3000,ORD000001,ORD003000
+staging,olist_order_payments,payment_sequential,int64,3486,0,0.0,2,1,2
+staging,olist_order_payments,payment_type,str,3486,0,0.0,4,boleto,voucher
+staging,olist_order_payments,payment_installments,int64,3486,0,0.0,5,1,10
+staging,olist_order_payments,payment_value,float64,3486,0,0.0,3443,15.25,2893.22
+staging,olist_order_reviews,review_id,str,2867,0,0.0,2867,REV000001,REV003000
+staging,olist_order_reviews,order_id,str,2867,0,0.0,2867,ORD000001,ORD003000
+staging,olist_order_reviews,review_score,int64,2867,0,0.0,5,1,5
+staging,olist_order_reviews,review_comment_title,str,2867,2017,70.35,850,Ability election parent.,Your above short Congress turn.
+staging,olist_order_reviews,review_comment_message,str,2867,1416,49.39,1451,A avoid choice media church tonight response charge.,Yourself whether discuss although idea less simple wife imagine.
+staging,olist_order_reviews,review_creation_date,datetime64[us],2867,0,0.0,2867,2023-01-01 02:15:39,2024-12-31 03:33:48
+staging,olist_order_reviews,review_answer_timestamp,datetime64[us],2867,0,0.0,2867,2023-01-02 06:55:11,2025-01-05 03:33:48
+staging,olist_orders,order_id,str,3000,0,0.0,3000,ORD000001,ORD003000
+staging,olist_orders,customer_id,str,3000,0,0.0,1537,CUST000001,CUST002000
+staging,olist_orders,order_status,str,3000,0,0.0,6,approved,shipped
+staging,olist_orders,order_purchase_timestamp,datetime64[us],3000,0,0.0,3000,2023-01-01 10:48:29,2024-12-31 20:12:24
+staging,olist_orders,order_approved_at,datetime64[us],3000,127,4.23,2873,2023-01-01 18:48:29,2025-01-02 06:12:24
+staging,olist_orders,order_delivered_carrier_date,datetime64[us],3000,478,15.93,2522,2023-01-03 04:26:31,2025-01-05 04:23:17
+staging,olist_orders,order_delivered_customer_date,datetime64[us],3000,679,22.63,2321,2023-01-05 08:34:40,2025-01-14 23:20:33
+staging,olist_orders,order_estimated_delivery_date,datetime64[us],3000,0,0.0,3000,2023-01-09 07:34:40,2025-01-25 20:12:24
+staging,olist_products,product_id,str,400,0,0.0,400,PROD00001,PROD00400
+staging,olist_products,product_category_name,str,400,0,0.0,40,air_conditioning,watches_gifts
+staging,olist_products,product_name_lenght,int64,400,0,0.0,46,15,60
+staging,olist_products,product_description_lenght,int64,400,0,0.0,378,137,2978
+staging,olist_products,product_photos_qty,int64,400,0,0.0,8,1,8
+staging,olist_products,product_weight_g,float64,400,0,0.0,393,66.0,19958.0
+staging,olist_products,product_length_cm,float64,400,0,0.0,95,5.0,100.0
+staging,olist_products,product_height_cm,float64,400,0,0.0,79,2.0,80.0
+staging,olist_products,product_width_cm,float64,400,0,0.0,86,5.0,90.0
+staging,olist_sellers,seller_id,str,150,0,0.0,150,SELL00001,SELL00150
+staging,olist_sellers,seller_zip_code_prefix,str,150,0,0.0,149,10860,99694
+staging,olist_sellers,seller_city,str,150,0,0.0,51,ananindeua,vitoria da conquista
+staging,olist_sellers,seller_state,str,150,0,0.0,27,AC,TO
+staging,pp_bom,bom_id,str,571,0,0.0,571,BOM000001,BOM000571
+staging,pp_bom,material_id,str,571,0,0.0,291,MAT00001,MAT00399
+staging,pp_bom,component_material_id,str,571,0,0.0,109,MAT00005,MAT00400
+staging,pp_bom,quantity,float64,571,0,0.0,419,1.02,10.0
+staging,pp_bom,unit,str,571,0,0.0,1,EA,EA
+staging,pp_production_orders,production_order_id,str,500,0,0.0,500,PRO000001,PRO000500
+staging,pp_production_orders,material_id,str,500,0,0.0,239,MAT00001,MAT00399
+staging,pp_production_orders,plant,str,500,0,0.0,3,PL01,PL03
+staging,pp_production_orders,work_center_id,str,500,0,0.0,15,WC001,WC015
+staging,pp_production_orders,order_quantity,int64,500,0,0.0,441,63,1997
+staging,pp_production_orders,planned_start_date,object,500,0,0.0,362,2023-01-02,2024-12-30
+staging,pp_production_orders,planned_end_date,object,500,0,0.0,362,2023-01-04,2025-01-09
+staging,pp_production_orders,actual_start_date,object,500,66,13.2,321,2023-01-03,2024-12-31
+staging,pp_production_orders,actual_end_date,object,500,165,33.0,269,2023-01-07,2025-01-12
+staging,pp_production_orders,status,str,500,0,0.0,4,Completed,Planned
+staging,pp_work_centers,work_center_id,str,15,0,0.0,15,WC001,WC015
+staging,pp_work_centers,work_center_name,str,15,0,0.0,15,Assembly Line 1,Welding Line 6
+staging,pp_work_centers,plant,str,15,0,0.0,2,PL01,PL03
+staging,pp_work_centers,capacity_hours,float64,15,0,0.0,10,8.0,24.0
+staging,product_category_translation,product_category_name,str,40,0,0.0,40,air_conditioning,watches_gifts
+staging,product_category_translation,product_category_name_english,str,40,0,0.0,40,air_conditioning,watches_gifts
+staging,wm_inventory_balance,warehouse_id,str,1386,0,0.0,8,WH01,WH08
+staging,wm_inventory_balance,material_id,str,1386,0,0.0,394,MAT00001,MAT00400
+staging,wm_inventory_balance,quantity_on_hand,int64,1386,0,0.0,424,0,1009
+staging,wm_inventory_balance,as_of_date,object,1386,0,0.0,1,2024-12-31,2024-12-31
+staging,wm_stock_movements,movement_id,str,1828,0,0.0,1828,MOV000001,MOV001828
+staging,wm_stock_movements,material_id,str,1828,0,0.0,394,MAT00001,MAT00400
+staging,wm_stock_movements,warehouse_id,str,1828,0,0.0,8,WH01,WH08
+staging,wm_stock_movements,movement_type,str,1828,0,0.0,3,GI_261_Goods_Issue_Production,GR_101_Goods_Receipt
+staging,wm_stock_movements,quantity,int64,1828,0,0.0,597,-200,500
+staging,wm_stock_movements,movement_date,object,1828,0,0.0,685,2023-01-01,2025-02-01
+staging,wm_stock_movements,reference_document,str,1828,0,0.0,1809,DELV000002,PRO000499
+staging,wm_storage_bins,bin_id,str,160,0,0.0,160,BIN00001,BIN00160
+staging,wm_storage_bins,warehouse_id,str,160,0,0.0,8,WH01,WH08
+staging,wm_storage_bins,storage_type,str,160,0,0.0,4,Bin,Rack
+staging,wm_storage_bins,capacity,int64,160,0,0.0,156,122,4965
+staging,wm_warehouses,warehouse_id,str,8,0,0.0,8,WH01,WH08
+staging,wm_warehouses,warehouse_name,str,8,0,0.0,8,Distribution Center 1,Distribution Center 8
+staging,wm_warehouses,plant,str,8,0,0.0,3,PL01,PL03
+staging,wm_warehouses,city,str,8,0,0.0,8,belo horizonte,sao paulo
+staging,wm_warehouses,state,str,8,0,0.0,8,BA,SP

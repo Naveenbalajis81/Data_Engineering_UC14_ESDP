@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <transformation>
   <info>
-    <name>UC14_Sprint2_Load_Fact_Payrollktr1</name>
+    <name>UC14_Sprint2_Load_Fact_Finance_GL</name>
     <description/>
     <extended_description/>
     <trans_version/>
     <trans_type>Normal</trans_type>
+    <trans_status>0</trans_status>
     <directory>/</directory>
     <parameters>
     </parameters>
@@ -427,10 +428,10 @@
     <clusterschemas>
     </clusterschemas>
     <created_user>-</created_user>
-    <created_date>2026/09/13 07:42:40.237</created_date>
+    <created_date>2026/09/12 23:54:44.779</created_date>
     <modified_user>-</modified_user>
-    <modified_date>2026/09/13 07:42:40.237</modified_date>
-    <key_for_session_key/>
+    <modified_date>2026/09/12 23:54:44.779</modified_date>
+    <key_for_session_key>H4sIAAAAAAAAAAMAAAAAAAAAAAA=</key_for_session_key>
     <is_key_private>N</is_key_private>
   </info>
   <notepads>
@@ -488,18 +489,286 @@
   </connection>
   <order>
     <hop>
-      <from>Table input</from>
-      <to>Select values</to>
+      <from>Read Finance GL</from>
+      <to>Prepare Finance GL</to>
       <enabled>Y</enabled>
     </hop>
     <hop>
-      <from>Select values</from>
-      <to>Table output</to>
+      <from>Prepare Finance GL</from>
+      <to>Write Fact Finance GL</to>
       <enabled>Y</enabled>
     </hop>
   </order>
   <step>
-    <name>Table input</name>
+    <name>Prepare Finance GL</name>
+    <type>SelectValues</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+    <partitioning>
+      <method>none</method>
+      <schema_name/>
+    </partitioning>
+    <fields>
+      <field>
+        <name>document_number</name>
+      </field>
+      <field>
+        <name>line_item</name>
+      </field>
+      <field>
+        <name>date_key</name>
+      </field>
+      <field>
+        <name>company_key</name>
+      </field>
+      <field>
+        <name>cost_center_key</name>
+      </field>
+      <field>
+        <name>gl_account</name>
+      </field>
+      <field>
+        <name>debit_credit_indicator</name>
+      </field>
+      <field>
+        <name>amount</name>
+      </field>
+      <field>
+        <name>profit_center</name>
+      </field>
+      <field>
+        <name>order_id</name>
+      </field>
+      <field>
+        <name>currency</name>
+      </field>
+      <field>
+        <name>document_type</name>
+      </field>
+      <select_unspecified>N</select_unspecified>
+      <meta>
+        <name>document_number</name>
+        <rename>document_number</rename>
+        <type>String</type>
+        <length>30</length>
+        <precision>-2</precision>
+        <conversion_mask/>
+        <date_format_lenient>false</date_format_lenient>
+        <date_format_locale/>
+        <date_format_timezone/>
+        <lenient_string_to_number>false</lenient_string_to_number>
+        <encoding/>
+        <decimal_symbol/>
+        <grouping_symbol/>
+        <currency_symbol/>
+        <storage_type/>
+      </meta>
+      <meta>
+        <name>line_item</name>
+        <rename>line_item</rename>
+        <type>Integer</type>
+        <length>9</length>
+        <precision>0</precision>
+        <conversion_mask/>
+        <date_format_lenient>false</date_format_lenient>
+        <date_format_locale/>
+        <date_format_timezone/>
+        <lenient_string_to_number>false</lenient_string_to_number>
+        <encoding/>
+        <decimal_symbol/>
+        <grouping_symbol/>
+        <currency_symbol/>
+        <storage_type/>
+      </meta>
+      <meta>
+        <name>date_key</name>
+        <rename>date_key</rename>
+        <type>Integer</type>
+        <length>9</length>
+        <precision>0</precision>
+        <conversion_mask/>
+        <date_format_lenient>false</date_format_lenient>
+        <date_format_locale/>
+        <date_format_timezone/>
+        <lenient_string_to_number>false</lenient_string_to_number>
+        <encoding/>
+        <decimal_symbol/>
+        <grouping_symbol/>
+        <currency_symbol/>
+        <storage_type/>
+      </meta>
+      <meta>
+        <name>company_key</name>
+        <rename>company_key</rename>
+        <type>Integer</type>
+        <length>9</length>
+        <precision>0</precision>
+        <conversion_mask/>
+        <date_format_lenient>false</date_format_lenient>
+        <date_format_locale/>
+        <date_format_timezone/>
+        <lenient_string_to_number>false</lenient_string_to_number>
+        <encoding/>
+        <decimal_symbol/>
+        <grouping_symbol/>
+        <currency_symbol/>
+        <storage_type/>
+      </meta>
+      <meta>
+        <name>cost_center_key</name>
+        <rename>cost_center_key</rename>
+        <type>Integer</type>
+        <length>9</length>
+        <precision>0</precision>
+        <conversion_mask/>
+        <date_format_lenient>false</date_format_lenient>
+        <date_format_locale/>
+        <date_format_timezone/>
+        <lenient_string_to_number>false</lenient_string_to_number>
+        <encoding/>
+        <decimal_symbol/>
+        <grouping_symbol/>
+        <currency_symbol/>
+        <storage_type/>
+      </meta>
+      <meta>
+        <name>gl_account</name>
+        <rename>gl_account</rename>
+        <type>String</type>
+        <length>20</length>
+        <precision>-2</precision>
+        <conversion_mask/>
+        <date_format_lenient>false</date_format_lenient>
+        <date_format_locale/>
+        <date_format_timezone/>
+        <lenient_string_to_number>false</lenient_string_to_number>
+        <encoding/>
+        <decimal_symbol/>
+        <grouping_symbol/>
+        <currency_symbol/>
+        <storage_type/>
+      </meta>
+      <meta>
+        <name>debit_credit_indicator</name>
+        <rename>debit_credit_indicator</rename>
+        <type>String</type>
+        <length>5</length>
+        <precision>-2</precision>
+        <conversion_mask/>
+        <date_format_lenient>false</date_format_lenient>
+        <date_format_locale/>
+        <date_format_timezone/>
+        <lenient_string_to_number>false</lenient_string_to_number>
+        <encoding/>
+        <decimal_symbol/>
+        <grouping_symbol/>
+        <currency_symbol/>
+        <storage_type/>
+      </meta>
+      <meta>
+        <name>amount</name>
+        <rename>amount</rename>
+        <type>Number</type>
+        <length>14</length>
+        <precision>2</precision>
+        <conversion_mask/>
+        <date_format_lenient>false</date_format_lenient>
+        <date_format_locale/>
+        <date_format_timezone/>
+        <lenient_string_to_number>false</lenient_string_to_number>
+        <encoding/>
+        <decimal_symbol/>
+        <grouping_symbol/>
+        <currency_symbol/>
+        <storage_type/>
+      </meta>
+      <meta>
+        <name>profit_center</name>
+        <rename>profit_center</rename>
+        <type>String</type>
+        <length>30</length>
+        <precision>-2</precision>
+        <conversion_mask/>
+        <date_format_lenient>false</date_format_lenient>
+        <date_format_locale/>
+        <date_format_timezone/>
+        <lenient_string_to_number>false</lenient_string_to_number>
+        <encoding/>
+        <decimal_symbol/>
+        <grouping_symbol/>
+        <currency_symbol/>
+        <storage_type/>
+      </meta>
+      <meta>
+        <name>order_id</name>
+        <rename>order_id</rename>
+        <type>String</type>
+        <length>30</length>
+        <precision>-2</precision>
+        <conversion_mask/>
+        <date_format_lenient>false</date_format_lenient>
+        <date_format_locale/>
+        <date_format_timezone/>
+        <lenient_string_to_number>false</lenient_string_to_number>
+        <encoding/>
+        <decimal_symbol/>
+        <grouping_symbol/>
+        <currency_symbol/>
+        <storage_type/>
+      </meta>
+      <meta>
+        <name>currency</name>
+        <rename>currency</rename>
+        <type>String</type>
+        <length>10</length>
+        <precision>-2</precision>
+        <conversion_mask/>
+        <date_format_lenient>false</date_format_lenient>
+        <date_format_locale/>
+        <date_format_timezone/>
+        <lenient_string_to_number>false</lenient_string_to_number>
+        <encoding/>
+        <decimal_symbol/>
+        <grouping_symbol/>
+        <currency_symbol/>
+        <storage_type/>
+      </meta>
+      <meta>
+        <name>document_type</name>
+        <rename>document_type</rename>
+        <type>String</type>
+        <length>20</length>
+        <precision>-2</precision>
+        <conversion_mask/>
+        <date_format_lenient>false</date_format_lenient>
+        <date_format_locale/>
+        <date_format_timezone/>
+        <lenient_string_to_number>false</lenient_string_to_number>
+        <encoding/>
+        <decimal_symbol/>
+        <grouping_symbol/>
+        <currency_symbol/>
+        <storage_type/>
+      </meta>
+    </fields>
+    <attributes/>
+    <cluster_schema/>
+    <remotesteps>
+      <input>
+      </input>
+      <output>
+      </output>
+    </remotesteps>
+    <GUI>
+      <xloc>352</xloc>
+      <yloc>224</yloc>
+      <draw>Y</draw>
+    </GUI>
+  </step>
+  <step>
+    <name>Read Finance GL</name>
     <type>TableInput</type>
     <description/>
     <distribute>Y</distribute>
@@ -511,33 +780,27 @@
     </partitioning>
     <connection>UC_14</connection>
     <sql>SELECT
-    poi.po_id,
-    poi.po_item,
+    ji.document_number,
+    ji.line_item,
     dd.date_key,
-    dv.vendor_key,
-    dp.product_key,
     dc.company_key,
-    poi.plant,
-    poi.quantity,
-    poi.unit_price,
-    (poi.quantity * poi.unit_price) AS total_amount,
-    po.currency
-FROM staging.mm_purchase_order_items poi
-JOIN staging.mm_purchase_orders po
-    ON poi.po_id = po.po_id
+    dcc.cost_center_key,
+    ji.gl_account,
+    ji.debit_credit_indicator,
+    ji.amount,
+    ji.profit_center,
+    ji.order_id,
+    je.currency,
+    je.document_type
+FROM staging.fi_journal_entry_items ji
+JOIN staging.fi_journal_entries je
+    ON ji.document_number = je.document_number
 LEFT JOIN dw.dim_date dd
-    ON dd.full_date = po.po_date::date
-LEFT JOIN dw.dim_vendor dv
-    ON dv.vendor_id = po.vendor_id
-LEFT JOIN dw.dim_product dp
-    ON dp.product_id = (
-        SELECT mm.product_id
-        FROM staging.mm_material_master mm
-        WHERE mm.material_id = poi.material_id
-    )
+    ON dd.full_date = CAST(je.posting_date AS DATE)
 LEFT JOIN dw.dim_company dc
-    ON dc.company_code = po.company_code
-ORDER BY poi.po_id, poi.po_item;</sql>
+    ON dc.company_code = je.company_code
+LEFT JOIN dw.dim_cost_center dcc
+    ON dcc.cost_center = ji.cost_center;</sql>
     <limit>0</limit>
     <lookup/>
     <execute_each_row>N</execute_each_row>
@@ -548,11 +811,11 @@ ORDER BY poi.po_id, poi.po_item;</sql>
       <value-meta>
         <type>String</type>
         <storagetype>normal</storagetype>
-        <name>po_id</name>
+        <name>document_number</name>
         <length>30</length>
         <precision>-1</precision>
         <origin>Table input</origin>
-        <comments>po_id</comments>
+        <comments>document_number</comments>
         <conversion_Mask/>
         <decimal_symbol>.</decimal_symbol>
         <grouping_symbol>,</grouping_symbol>
@@ -571,11 +834,11 @@ ORDER BY poi.po_id, poi.po_item;</sql>
       <value-meta>
         <type>Integer</type>
         <storagetype>normal</storagetype>
-        <name>po_item</name>
+        <name>line_item</name>
         <length>9</length>
         <precision>0</precision>
         <origin>Table input</origin>
-        <comments>po_item</comments>
+        <comments>line_item</comments>
         <conversion_Mask>####0;-####0</conversion_Mask>
         <decimal_symbol>.</decimal_symbol>
         <grouping_symbol>,</grouping_symbol>
@@ -617,52 +880,6 @@ ORDER BY poi.po_id, poi.po_item;</sql>
       <value-meta>
         <type>Integer</type>
         <storagetype>normal</storagetype>
-        <name>vendor_key</name>
-        <length>9</length>
-        <precision>0</precision>
-        <origin>Table input</origin>
-        <comments>vendor_key</comments>
-        <conversion_Mask>####0;-####0</conversion_Mask>
-        <decimal_symbol>.</decimal_symbol>
-        <grouping_symbol>,</grouping_symbol>
-        <currency_symbol/>
-        <trim_type>none</trim_type>
-        <case_insensitive>N</case_insensitive>
-        <collator_disabled>Y</collator_disabled>
-        <collator_strength>0</collator_strength>
-        <sort_descending>N</sort_descending>
-        <output_padding>N</output_padding>
-        <date_format_lenient>N</date_format_lenient>
-        <date_format_locale>en_IN</date_format_locale>
-        <date_format_timezone>Asia/Calcutta</date_format_timezone>
-        <lenient_string_to_number>N</lenient_string_to_number>
-      </value-meta>
-      <value-meta>
-        <type>Integer</type>
-        <storagetype>normal</storagetype>
-        <name>product_key</name>
-        <length>9</length>
-        <precision>0</precision>
-        <origin>Table input</origin>
-        <comments>product_key</comments>
-        <conversion_Mask>####0;-####0</conversion_Mask>
-        <decimal_symbol>.</decimal_symbol>
-        <grouping_symbol>,</grouping_symbol>
-        <currency_symbol/>
-        <trim_type>none</trim_type>
-        <case_insensitive>N</case_insensitive>
-        <collator_disabled>Y</collator_disabled>
-        <collator_strength>0</collator_strength>
-        <sort_descending>N</sort_descending>
-        <output_padding>N</output_padding>
-        <date_format_lenient>N</date_format_lenient>
-        <date_format_locale>en_IN</date_format_locale>
-        <date_format_timezone>Asia/Calcutta</date_format_timezone>
-        <lenient_string_to_number>N</lenient_string_to_number>
-      </value-meta>
-      <value-meta>
-        <type>Integer</type>
-        <storagetype>normal</storagetype>
         <name>company_key</name>
         <length>9</length>
         <precision>0</precision>
@@ -684,13 +901,36 @@ ORDER BY poi.po_id, poi.po_item;</sql>
         <lenient_string_to_number>N</lenient_string_to_number>
       </value-meta>
       <value-meta>
+        <type>Integer</type>
+        <storagetype>normal</storagetype>
+        <name>cost_center_key</name>
+        <length>9</length>
+        <precision>0</precision>
+        <origin>Table input</origin>
+        <comments>cost_center_key</comments>
+        <conversion_Mask>####0;-####0</conversion_Mask>
+        <decimal_symbol>.</decimal_symbol>
+        <grouping_symbol>,</grouping_symbol>
+        <currency_symbol/>
+        <trim_type>none</trim_type>
+        <case_insensitive>N</case_insensitive>
+        <collator_disabled>Y</collator_disabled>
+        <collator_strength>0</collator_strength>
+        <sort_descending>N</sort_descending>
+        <output_padding>N</output_padding>
+        <date_format_lenient>N</date_format_lenient>
+        <date_format_locale>en_IN</date_format_locale>
+        <date_format_timezone>Asia/Calcutta</date_format_timezone>
+        <lenient_string_to_number>N</lenient_string_to_number>
+      </value-meta>
+      <value-meta>
         <type>String</type>
         <storagetype>normal</storagetype>
-        <name>plant</name>
-        <length>30</length>
+        <name>gl_account</name>
+        <length>20</length>
         <precision>-1</precision>
         <origin>Table input</origin>
-        <comments>plant</comments>
+        <comments>gl_account</comments>
         <conversion_Mask/>
         <decimal_symbol>.</decimal_symbol>
         <grouping_symbol>,</grouping_symbol>
@@ -707,14 +947,14 @@ ORDER BY poi.po_id, poi.po_item;</sql>
         <lenient_string_to_number>N</lenient_string_to_number>
       </value-meta>
       <value-meta>
-        <type>Integer</type>
+        <type>String</type>
         <storagetype>normal</storagetype>
-        <name>quantity</name>
-        <length>9</length>
-        <precision>0</precision>
+        <name>debit_credit_indicator</name>
+        <length>5</length>
+        <precision>-1</precision>
         <origin>Table input</origin>
-        <comments>quantity</comments>
-        <conversion_Mask>####0;-####0</conversion_Mask>
+        <comments>debit_credit_indicator</comments>
+        <conversion_Mask/>
         <decimal_symbol>.</decimal_symbol>
         <grouping_symbol>,</grouping_symbol>
         <currency_symbol/>
@@ -732,11 +972,11 @@ ORDER BY poi.po_id, poi.po_item;</sql>
       <value-meta>
         <type>Number</type>
         <storagetype>normal</storagetype>
-        <name>unit_price</name>
+        <name>amount</name>
         <length>14</length>
         <precision>2</precision>
         <origin>Table input</origin>
-        <comments>unit_price</comments>
+        <comments>amount</comments>
         <conversion_Mask>####0.0#########;-####0.0#########</conversion_Mask>
         <decimal_symbol>.</decimal_symbol>
         <grouping_symbol>,</grouping_symbol>
@@ -753,16 +993,39 @@ ORDER BY poi.po_id, poi.po_item;</sql>
         <lenient_string_to_number>N</lenient_string_to_number>
       </value-meta>
       <value-meta>
-        <type>BigNumber</type>
+        <type>String</type>
         <storagetype>normal</storagetype>
-        <name>total_amount</name>
-        <length>-1</length>
+        <name>profit_center</name>
+        <length>30</length>
         <precision>-1</precision>
         <origin>Table input</origin>
-        <comments>total_amount</comments>
-        <conversion_Mask>######0.0###################;-######0.0###################</conversion_Mask>
+        <comments>profit_center</comments>
+        <conversion_Mask/>
         <decimal_symbol>.</decimal_symbol>
-        <grouping_symbol/>
+        <grouping_symbol>,</grouping_symbol>
+        <currency_symbol/>
+        <trim_type>none</trim_type>
+        <case_insensitive>N</case_insensitive>
+        <collator_disabled>Y</collator_disabled>
+        <collator_strength>0</collator_strength>
+        <sort_descending>N</sort_descending>
+        <output_padding>N</output_padding>
+        <date_format_lenient>N</date_format_lenient>
+        <date_format_locale>en_IN</date_format_locale>
+        <date_format_timezone>Asia/Calcutta</date_format_timezone>
+        <lenient_string_to_number>N</lenient_string_to_number>
+      </value-meta>
+      <value-meta>
+        <type>String</type>
+        <storagetype>normal</storagetype>
+        <name>order_id</name>
+        <length>30</length>
+        <precision>-1</precision>
+        <origin>Table input</origin>
+        <comments>order_id</comments>
+        <conversion_Mask/>
+        <decimal_symbol>.</decimal_symbol>
+        <grouping_symbol>,</grouping_symbol>
         <currency_symbol/>
         <trim_type>none</trim_type>
         <case_insensitive>N</case_insensitive>
@@ -798,6 +1061,29 @@ ORDER BY poi.po_id, poi.po_item;</sql>
         <date_format_timezone>Asia/Calcutta</date_format_timezone>
         <lenient_string_to_number>N</lenient_string_to_number>
       </value-meta>
+      <value-meta>
+        <type>String</type>
+        <storagetype>normal</storagetype>
+        <name>document_type</name>
+        <length>20</length>
+        <precision>-1</precision>
+        <origin>Table input</origin>
+        <comments>document_type</comments>
+        <conversion_Mask/>
+        <decimal_symbol>.</decimal_symbol>
+        <grouping_symbol>,</grouping_symbol>
+        <currency_symbol/>
+        <trim_type>none</trim_type>
+        <case_insensitive>N</case_insensitive>
+        <collator_disabled>Y</collator_disabled>
+        <collator_strength>0</collator_strength>
+        <sort_descending>N</sort_descending>
+        <output_padding>N</output_padding>
+        <date_format_lenient>N</date_format_lenient>
+        <date_format_locale>en_IN</date_format_locale>
+        <date_format_timezone>Asia/Calcutta</date_format_timezone>
+        <lenient_string_to_number>N</lenient_string_to_number>
+      </value-meta>
     </row-meta>
     <attributes/>
     <cluster_schema/>
@@ -809,12 +1095,12 @@ ORDER BY poi.po_id, poi.po_item;</sql>
     </remotesteps>
     <GUI>
       <xloc>112</xloc>
-      <yloc>336</yloc>
+      <yloc>224</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
   <step>
-    <name>Table output</name>
+    <name>Write Fact Finance GL</name>
     <type>TableOutput</type>
     <description/>
     <distribute>Y</distribute>
@@ -824,14 +1110,14 @@ ORDER BY poi.po_id, poi.po_item;</sql>
       <method>none</method>
       <schema_name/>
     </partitioning>
-    <connection/>
-    <schema/>
-    <table/>
+    <connection>UC_14</connection>
+    <schema>dw</schema>
+    <table>fact_finance_gl</table>
     <commit>1000</commit>
     <truncate>N</truncate>
     <ignore_errors>N</ignore_errors>
     <use_batch>Y</use_batch>
-    <specify_fields>N</specify_fields>
+    <specify_fields>Y</specify_fields>
     <partitioning_enabled>N</partitioning_enabled>
     <partitioning_field/>
     <partitioning_daily>N</partitioning_daily>
@@ -842,6 +1128,54 @@ ORDER BY poi.po_id, poi.po_item;</sql>
     <return_keys>N</return_keys>
     <return_field/>
     <fields>
+      <field>
+        <column_name>document_number</column_name>
+        <stream_name>document_number</stream_name>
+      </field>
+      <field>
+        <column_name>line_item</column_name>
+        <stream_name>line_item</stream_name>
+      </field>
+      <field>
+        <column_name>date_key</column_name>
+        <stream_name>date_key</stream_name>
+      </field>
+      <field>
+        <column_name>company_key</column_name>
+        <stream_name>company_key</stream_name>
+      </field>
+      <field>
+        <column_name>cost_center_key</column_name>
+        <stream_name>cost_center_key</stream_name>
+      </field>
+      <field>
+        <column_name>gl_account</column_name>
+        <stream_name>gl_account</stream_name>
+      </field>
+      <field>
+        <column_name>debit_credit_indicator</column_name>
+        <stream_name>debit_credit_indicator</stream_name>
+      </field>
+      <field>
+        <column_name>amount</column_name>
+        <stream_name>amount</stream_name>
+      </field>
+      <field>
+        <column_name>profit_center</column_name>
+        <stream_name>profit_center</stream_name>
+      </field>
+      <field>
+        <column_name>order_id</column_name>
+        <stream_name>order_id</stream_name>
+      </field>
+      <field>
+        <column_name>currency</column_name>
+        <stream_name>currency</stream_name>
+      </field>
+      <field>
+        <column_name>document_type</column_name>
+        <stream_name>document_type</stream_name>
+      </field>
     </fields>
     <attributes/>
     <cluster_schema/>
@@ -852,36 +1186,8 @@ ORDER BY poi.po_id, poi.po_item;</sql>
       </output>
     </remotesteps>
     <GUI>
-      <xloc>592</xloc>
-      <yloc>336</yloc>
-      <draw>Y</draw>
-    </GUI>
-  </step>
-  <step>
-    <name>Select values</name>
-    <type>SelectValues</type>
-    <description/>
-    <distribute>Y</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-    <partitioning>
-      <method>none</method>
-      <schema_name/>
-    </partitioning>
-    <fields>
-      <select_unspecified>N</select_unspecified>
-    </fields>
-    <attributes/>
-    <cluster_schema/>
-    <remotesteps>
-      <input>
-      </input>
-      <output>
-      </output>
-    </remotesteps>
-    <GUI>
-      <xloc>336</xloc>
-      <yloc>336</yloc>
+      <xloc>528</xloc>
+      <yloc>224</yloc>
       <draw>Y</draw>
     </GUI>
   </step>
